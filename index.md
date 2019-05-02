@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[définition](defintion.md)
+[définition](definition.md)
 You can use the [editor on GitHub](https://github.com/Hekanakht/First-project-AORI/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
