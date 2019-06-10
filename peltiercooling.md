@@ -42,6 +42,7 @@ Ce site reprend une définition précise mais très scientifique de la méthode 
 Ref: CHANG, Yu-Wei, CHANG, Chih-Chung, KE, Ming-Tsun et CHEN, Sih-Li. Thermoelectric air-cooling module for electronic devices. Applied Thermal Engineering [en ligne]. Septembre 2009, Vol. 29, nᵒ 13, p. 2731‑2737. DOI 10.1016/j.applthermaleng.2009.01.004
 <br>                                                                                                                                              </br>
 <br>                                                                                                                                              </br>
+-
 - [https://www.anandtech.com/show/10695/the-phononic-hex-2-0-tec-cpu-cooler-review](https://www.anandtech.com/show/10695/the-phononic-hex-2-0-tec-cpu-cooler-review)
 <br>                                                                                                                                              </br>
 Ce site pointe les gros points négatifs de la méthode de refroidissement thermoélectrique.
@@ -51,4 +52,12 @@ Ce site pointe les gros points négatifs de la méthode de refroidissement therm
 FYLLADITAKIS, E. The Phononic HEX 2.0 TEC CPU Cooler Review. Dans : AnandTech [en ligne]. 26 septembre 2016. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://www.anandtech.com/show/10695/the-phononic-hex-2-0-tec-cpu-cooler-review
 <br>                                                                                                                                              </br>
 <br>                                                                                                                                              </br>
-- 
+- [https://www.youtube.com/watch?v=gLjEuhbHTLY](https://www.youtube.com/watch?v=gLjEuhbHTLY)
+<br>                                                                                                                                              </br>
+Une vidéo expliquant en quoi consiste la méthode Peltier et sa mise en place au sein d'une configuration d'un ordinateur.
+<br>                                                                                                                                              </br>
+![Vidéo refroidissement par méthode Peltier](/image/ytpeltier.png)
+<br>                                                                                                                                              </br>
+DOCTORNOOB. 💻 Peltier CPU Cooling Test (Dr. NOOB’s Lab) [en ligne]. 7 décembre 2016. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=gLjEuhbHTLY
+<br>                                                                                                                                              </br>
+<br>                                                                                                                                              </br>
