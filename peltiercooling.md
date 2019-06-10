@@ -61,3 +61,13 @@ Une vidéo expliquant en quoi consiste la méthode Peltier et sa mise en place a
 DOCTORNOOB. 💻 Peltier CPU Cooling Test (Dr. NOOB’s Lab) [en ligne]. 7 décembre 2016. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=gLjEuhbHTLY
 <br>                                                                                                                                              </br>
 <br>                                                                                                                                              </br>
+-[https://www.researchgate.net/figure/Schematic-diagram-of-a-TEC-system-integrated-with-a-GAHP_fig1_313267844](https://www.researchgate.net/figure/Schematic-diagram-of-a-TEC-system-integrated-with-a-GAHP_fig1_313267844)
+<br>                                                                                                                                              </br>
+C'est un site comprenant plusieurs shémas qui explique le fonctionnement et le rendementd de la méthode Peltier.
+<br>                                                                                                                                              </br>
+![Schéma scientifique de la méthode Peltier](/image/schemamethodepeltier.png)
+<br>                                                                                                                                              </br>
+SUN, Xiaoqin, ZHANG, Linfeng et LIAO, Shuguang. Performance of a thermoelectric cooling system integrated with a gravity-assisted heat pipe for cooling electronics. Applied Thermal Engineering [en ligne]. Février 2017, Vol. 116. DOI 10.1016/j.applthermaleng.2016.12.094
+<br>                                                                                                                                              </br>
+<br>                                                                                                                                              </br>
+-
