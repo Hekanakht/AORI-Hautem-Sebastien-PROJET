@@ -29,6 +29,6 @@ Ce site explique dans quel liquide est plongé les ordinateurs immergés, permet
 Ref: LILLY, Paul. This is what extreme liquid cooling looks like. Dans : PC Gamer [en ligne]. 14 novembre 2017. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.pcgamer.com/this-is-what-extreme-liquid-cooling-looks-like/
 <br>                                                                                                                                   </br>
 <br>                                                                                                                                   </br>
-
+- 
 
 
