@@ -42,3 +42,4 @@ Ce site reprend une définition précise mais très scientifique de la méthode 
 Ref: CHANG, Yu-Wei, CHANG, Chih-Chung, KE, Ming-Tsun et CHEN, Sih-Li. Thermoelectric air-cooling module for electronic devices. Applied Thermal Engineering [en ligne]. Septembre 2009, Vol. 29, nᵒ 13, p. 2731‑2737. DOI 10.1016/j.applthermaleng.2009.01.004
 <br>                                                                                                                                              </br>
 <br>                                                                                                                                              </br>
+- 
