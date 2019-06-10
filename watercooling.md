@@ -38,6 +38,13 @@ Cette vidéo fiable explique les avantages et inconvénients des refroidissement
 Ref: LINUS TECH TIPS. The BEST Cooling Solution - Air or Water - FINAL ANSWER [en ligne]. 21 septembre 2017. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=hr0qLLv3dKc
 <br>                                                                                                                                               </br>
 <br>                                                                                                                                               </br>
--
-
+-[https://gtxgamer.fr/ordinateurs-et-accessoires/guide-des-meilleurs-systemes-de-refroidissement-liquide-pour-pc/](https://gtxgamer.fr/ordinateurs-et-accessoires/guide-des-meilleurs-systemes-de-refroidissement-liquide-pour-pc/)
+<br>                                                                                                                                               </br>
+Un petit guide qui reprend les différents composants du water cooling pour différentes situtation.
+<br>                                                                                                                                               </br>
+![Système différent du water cooling](/image/bestsystemlc.png)
+<br>                                                                                                                                               </br>
+Rep: GTX GAMER. Les 8 meilleurs refroidisseurs liquide d’UC de 2019. Dans : GTX Gamer : Le guide du pc Gamer [en ligne]. 18 août 2018. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://gtxgamer.fr/ordinateurs-et-accessoires/guide-des-meilleurs-systemes-de-refroidissement-liquide-pour-pc/
+<br>                                                                                                                                               </br>
+<br>                                                                                                                                               </br>
 
