@@ -8,7 +8,7 @@
 1. [Le refroidissement par changement d'étât ou phase-change cooling](phasechangecooling.md)
 
 
-Avant d'enter dans le vif du sujet, je vous propose des sites qui reprennent les différents systèmes de refroidissement mais avec un language plus simple et accessible pour comprendre les bases et ses fonctionnements.
+<h2>Avant d'enter dans le vif du sujet, je vous propose des sites qui reprennent les différents systèmes de refroidissement mais avec un language plus simple et accessible pour comprendre les bases et ses fonctionnements.</h2>
 <br>                                                                                                                                               </br>
 <br>                                                                                                                                               </br>
 
