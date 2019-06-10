@@ -15,7 +15,7 @@ Le refroidissement thermoélectique ou le refroidissement par la méthode Peltie
 <br>                                                                                                                                              </br>
 <br>                                                                                                                                              </br>
 
--[https://www.marlow.com/how-do-thermoelectric-coolers-tecs-work](https://www.marlow.com/how-do-thermoelectric-coolers-tecs-work)
+- [https://www.marlow.com/how-do-thermoelectric-coolers-tecs-work](https://www.marlow.com/how-do-thermoelectric-coolers-tecs-work)
 <br>                                                                                                                                              </br>
 Ce site explique clairement comment fonctionne la méthode Peltier et son utilité.
 <br>                                                                                                                                              </br>
