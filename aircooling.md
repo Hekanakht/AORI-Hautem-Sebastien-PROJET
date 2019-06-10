@@ -8,7 +8,7 @@
 1. [Le refroidissement par changement d'étât ou phase-change cooling](phasechangecooling.md)
 
 
-Le refroidissement par air ou en anglais "air cooling" utilise des systèmes de ventilateurs pour réduire la température des différentes parties du pc:
+<h2>Le refroidissement par air ou en anglais "air cooling" utilise des systèmes de ventilateurs pour réduire la température des différentes parties du pc:</h2>
 
 - [https://www.configspc.com/forum/viewtopic.php?t=8416](https://www.configspc.com/forum/viewtopic.php?t=8416)
 <br>                                                                                                                                   </br>
