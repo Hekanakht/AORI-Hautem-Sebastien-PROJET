@@ -6,3 +6,11 @@
 1. [Le refroidissement liquide ou water cooling](watercooling.md)
 1. [Le refroidissement thermoélectrique ou Peltier cooling](peltiercooling.md)
 1. [Le refroidissement par changement d'étât ou phase-change cooling](phasechangecooling.md)
+
+
+Avant d'enter dans le vif du sujet, je vous propose des sites qui reprennent les différents systèmes de refroidissement mais avec un language plus simple et accessible pour comprendre les bases et ses fonctionnements.
+
+
+2. https://www.ebuyer.com/blog/2016/06/whats-the-best-pc-cooling-method/
+
+Un site reprenant les avantages et les inconvénients du refroidissement à air et liquide en anglais.
