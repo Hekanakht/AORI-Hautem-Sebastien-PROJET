@@ -38,3 +38,12 @@ Ref: FALK, Richard. A brief explanation on CPU coolers. Dans : TechSpot [en l
 
 <br>                                                                                                                                   </br>
 <br>                                                                                                                                   </br>
+- [https://www.youtube.com/watch?time_continue=82&v=ieMvtUpFENM](https://www.youtube.com/watch?time_continue=82&v=ieMvtUpFENM)
+<br>                                                                                                                                   </br>
+Cette vidéo fiable qui explique le fonctionnement du air cooling avec des animations et explications détaillées.
+<br>                                                                                                                                   </br>
+![Youtube heatpipes et air cooling](image/ytheatpipes.png)
+<br>                                                                                                                                   </br>
+Ref: GAMERS NEXUS. TLDR: How Heatpipes & Air Coolers Work (w/ animation) [en ligne]. spetembre 2016. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.youtube.com/watch?time_continue=82&v=ieMvtUpFENM
+<br>                                                                                                                                   </br>
+<br>                                                                                                                                   </br>
