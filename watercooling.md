@@ -56,4 +56,14 @@ Un site qui explique pourquoi il faut utiliser de l'huile minéral pour submerge
 NOON, James. Liquid Cooling – Submerging Your PC In Mineral Oil. Dans : Bleu it consultants limited [en ligne]. 7 juillet 2015. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://bleuit.com/liquid-cooling-submerging-your-pc-in-mineral-oil-671/
 <br>                                                                                                                                               </br>
 <br>                                                                                                                                               </br>
-- 
+- [https://medium.com/@meohoh/an-ultimate-beginners-guide-to-pc-water-cooling-1dd4c68f1474](https://medium.com/@meohoh/an-ultimate-beginners-guide-to-pc-water-cooling-1dd4c68f1474)
+<br>                                                                                                                                               </br>
+Un site qui explique le le circuit que fait l'eau dans un refroidissement liquide, tout en expliquant les différents types qui existe dans le water cooling.
+<br>                                                                                                                                               </br>
+![Système de refroidissement liquide shéma](/image/liquidsystem.png)
+<br>                                                                                                                                               </br>
+SUNDERLAND, James. An ultimate beginners’ guide to PC water cooling. Dans : Medium [en ligne]. 30 mars 2018. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://medium.com/@meohoh/an-ultimate-beginners-guide-to-pc-water-cooling-1dd4c68f1474
+
+<br>                                                                                                                                               </br>
+<br>                                                                                                                                               </br>
+
