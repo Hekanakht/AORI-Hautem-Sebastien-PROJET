@@ -14,12 +14,11 @@
 <br>                                                                                                                                   </br>
 Cette vidéo explique comment fonctionne la dispertion de chaleur avec le refroidissement par ventilateurs, ainsi qu'avec le refroidissement liquide. (Attention, inclut une communication commercial).
 <br>                                                                                                                                   </br>
-![Youtube vidéo Air cooling corsaire](/image/ytcorsair.png)
+![Youtube video air cooling corsaire](/image/ytcorsair.png)
 <br>                                                                                                                                   </br>
-Ref: CORSAIR. Corsair PC Building Basics: air CPU cooling vs. liquid CPU cooling [en ligne]. 3 novembre 2015. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=vG3W6yvqTuw
+Ref: CORSAIR. Corsair PC Building Basics: air CPU cooling vs. liquid CPU cooling [en ligne]. 3 novembre 2015. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=vG3W6yvqTuw
 <br>                                                                                                                                   </br>
 <br>                                                                                                                                   </br>
-
 - [https://www.pcgamer.com/this-is-what-extreme-liquid-cooling-looks-like/](https://www.pcgamer.com/this-is-what-extreme-liquid-cooling-looks-like/)
 <br>                                                                                                                                   </br>
 Ce site explique dans quel liquide est plongé les ordinateurs immergés, permettant ainsi de réduire considérablement la chaleur.
