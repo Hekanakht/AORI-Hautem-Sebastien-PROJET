@@ -10,8 +10,7 @@
 
 Avant d'enter dans le vif du sujet, je vous propose des sites qui reprennent les différents systèmes de refroidissement mais avec un language plus simple et accessible pour comprendre les bases et ses fonctionnements.
 
-
-  1. [https://www.ebuyer.com/blog/2016/06/whats-the-best-pc-cooling-method/](https://www.ebuyer.com/blog/2016/06/whats-the-best-pc-cooling-method/)
+- [https://www.ebuyer.com/blog/2016/06/whats-the-best-pc-cooling-method/](https://www.ebuyer.com/blog/2016/06/whats-the-best-pc-cooling-method/)
 
 
 Un site reprenant les avantages et les inconvénients du refroidissement à air et liquide en anglais.
@@ -20,19 +19,27 @@ Un site reprenant les avantages et les inconvénients du refroidissement à air 
 Ref: EBUYER. Whats the best PC Cooling Method? Dans : Ebuyer [en ligne]. 29 juin 2016. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://www.ebuyer.com/blog/2016/06/whats-the-best-pc-cooling-method/
 
 
-  1. https://www.extremetech.com/computing/54386-top-tip-what-is-phase-change-cooling](https://www.extremetech.com/computing/54386-top-tip-what-is-phase-change-cooling)
+- https://www.extremetech.com/computing/54386-top-tip-what-is-phase-change-cooling](https://www.extremetech.com/computing/54386-top-tip-what-is-phase-change-cooling)
   
   Un site où se trouve une définition simple du refroidissement par changement d'état. 
   ![Phase-changing cooling](/image/changecoolingextremeTech.png)
   
   Ref: EXTREMETECH STAFF. Top Tip: What is phase change cooling? Dans : ExtremeTech [en ligne]. 11 juin 2003. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.extremetech.com/computing/54386-top-tip-what-is-phase-change-cooling
 
-1.[https://medium.com/computing-technology-with-it-fundamentals/system-hardware-component-cooling-system-in-a-computer-7d8602523c4a](https://medium.com/computing-technology-with-it-fundamentals/system-hardware-component-cooling-system-in-a-computer-7d8602523c4a)
+- [https://medium.com/computing-technology-with-it-fundamentals/system-hardware-component-cooling-system-in-a-computer-7d8602523c4a](https://medium.com/computing-technology-with-it-fundamentals/system-hardware-component-cooling-system-in-a-computer-7d8602523c4a)
 
 Un site reprennant le refroidissement par air et par liquide avec différentes explications pour chacune d'elles.
 ![Air and water cooling](/image/coolingsystemehussain.png)
 
 Ref:HUSSAIN, Baseer. System Hardware Component: Cooling system in a Computer. Dans : Medium [en ligne]. 6 mars 2017. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://medium.com/computing-technology-with-it-fundamentals/system-hardware-component-cooling-system-in-a-computer-7d8602523c4a
+
+
+- [https://www.overclockingmadeinfrance.com/les-differents-types-de-refroidissements-cpu/](https://www.overclockingmadeinfrance.com/les-differents-types-de-refroidissements-cpu/)
+
+Un site reprennant les différentes parties du refroidissement par air et une petite explication du refroidissment liquide.
+![Air cooling difference](/image/aircoolingdiff.jpg)
+
+NHU9B. Quels sont les différents types de refroidissements classiques pour CPU ? Dans : Overclocking : Made in France [en ligne]. 27 septembre 2016. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://www.overclockingmadeinfrance.com/les-differents-types-de-refroidissements-cpu/
 
 
 
