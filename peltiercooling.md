@@ -51,10 +51,4 @@ Ce site pointe les gros points négatifs de la méthode de refroidissement therm
 FYLLADITAKIS, E. The Phononic HEX 2.0 TEC CPU Cooler Review. Dans : AnandTech [en ligne]. 26 septembre 2016. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://www.anandtech.com/show/10695/the-phononic-hex-2-0-tec-cpu-cooler-review
 <br>                                                                                                                                              </br>
 <br>                                                                                                                                              </br>
-- [https://medium.com/computing-technology-with-it-fundamentals/system-hardware-component-cooling-system-in-a-computer-7d8602523c4a](https://medium.com/computing-technology-with-it-fundamentals/system-hardware-component-cooling-system-in-a-computer-7d8602523c4a)
-<br>                                                                                                                                               </br>
-Un site reprennant les différentes méthodes de refroidissements de manière simplifiée.
-<br>                                                                                                                                               </br>
-![Air and water cooling](/image/coolingsystemehussain.png)
-<br>                                                                                                                                               </br>
-Ref: HUSSAIN, Baseer. System Hardware Component: Cooling system in a Computer. Dans : Medium [en ligne]. 6 mars 2017. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://medium.com/computing-technology-with-it-fundamentals/system-hardware-component-cooling-system-in-a-computer-7d8602523c4a
+- 
