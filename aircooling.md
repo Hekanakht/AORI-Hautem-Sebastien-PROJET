@@ -47,4 +47,21 @@ Cette vidéo fiable qui explique le fonctionnement du air cooling avec des anima
 Ref: GAMERS NEXUS. TLDR: How Heatpipes & Air Coolers Work (w/ animation) [en ligne]. spetembre 2016. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.youtube.com/watch?time_continue=82&v=ieMvtUpFENM
 <br>                                                                                                                                   </br>
 <br>                                                                                                                                   </br>
-- 
+- [https://medium.com/computing-technology-with-it-fundamentals/system-hardware-component-cooling-system-in-a-computer-7d8602523c4a](https://medium.com/computing-technology-with-it-fundamentals/system-hardware-component-cooling-system-in-a-computer-7d8602523c4a)
+<br>                                                                                                                                               </br>
+Un site reprennant le refroidissement par air et par liquide avec différentes explications pour chacune d'elles.
+<br>                                                                                                                                               </br>
+![Air and water cooling](/image/coolingsystemehussain.png)
+<br>                                                                                                                                               </br>
+Ref: HUSSAIN, Baseer. System Hardware Component: Cooling system in a Computer. Dans : Medium [en ligne]. 6 mars 2017. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://medium.com/computing-technology-with-it-fundamentals/system-hardware-component-cooling-system-in-a-computer-7d8602523c4a
+<br>                                                                                                                                               </br>
+<br>                                                                                                                                               </br>
+- [https://www.extremetech.com/computing/128313-extremetechs-guide-to-air-cooling-your-pc](https://www.extremetech.com/computing/128313-extremetechs-guide-to-air-cooling-your-pc)
+<br>                                                                                                                                               </br>
+Un site qui explique que l'emplacement des ventilateur dans l'air cooling est très important et est expliqué avec différents schémas.
+<br>                                                                                                                                               </br>
+![ExtremeTech positionnement ventilateur](/image/exttechaircl.png)
+<br>                                                                                                                                               </br>
+Ref : IMMS, Janson. ExtremeTech’s guide to air cooling your PC - ExtremeTech. Dans : ExtremeTech [en ligne]. 3 mai 2012. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://www.extremetech.com/computing/128313-extremetechs-guide-to-air-cooling-your-pc
+<br>                                                                                                                                               </br>
+<br>                                                                                                                                               </br>
