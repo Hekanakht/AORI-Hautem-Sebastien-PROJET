@@ -19,4 +19,13 @@ Ce site explique à quoi servent les différents ventilateurs qui peuvent être 
 Ref: CLEMENT26104. Tuto: Le Refroidissement entre Watercooling et Aircooling. Dans : ConfigsPC.com [en ligne]. 10 décembre 2008. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.configspc.com/forum/viewtopic.php?t=8416
 <br>                                                                                                                                   </br>
 <br>                                                                                                                                   </br>
--
+- [https://www.youtube.com/watch?v=vG3W6yvqTuw](https://www.youtube.com/watch?v=vG3W6yvqTuw)
+<br>                                                                                                                                   </br>
+Cette vidéo explique comment fonctionne la dispertion de chaleur avec le refroidissement par ventilateurs. (Attention, inclut une communication commercial).
+<br>                                                                                                                                   </br>
+![Youtube vidéo Air cooling corsaire](/image/ytcorsair.png)
+<br>                                                                                                                                   </br>
+Ref: CORSAIR. Corsair PC Building Basics: air CPU cooling vs. liquid CPU cooling [en ligne]. 3 novembre 2015. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=vG3W6yvqTuw
+<br>                                                                                                                                   </br>
+<br>                                                                                                                                   </br>
+- 
