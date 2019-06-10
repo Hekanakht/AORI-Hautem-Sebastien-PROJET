@@ -9,47 +9,49 @@
 
 
 Avant d'enter dans le vif du sujet, je vous propose des sites qui reprennent les différents systèmes de refroidissement mais avec un language plus simple et accessible pour comprendre les bases et ses fonctionnements.
-
-
-
-
+{bl}
 - [https://www.ebuyer.com/blog/2016/06/whats-the-best-pc-cooling-method/](https://www.ebuyer.com/blog/2016/06/whats-the-best-pc-cooling-method/)
-
-
+{empty}+
+{empty}+
 Un site reprenant les avantages et les inconvénients du refroidissement à air et liquide en anglais.
-![Ebuyerscreenshot](/image/Ebuyer.png)
-
+{empty} +
+![Ebuyerscreenshot](/image/Ebuyer.png)<br />
+{empty} +
 Ref: EBUYER. Whats the best PC Cooling Method? Dans : Ebuyer [en ligne]. 29 juin 2016. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://www.ebuyer.com/blog/2016/06/whats-the-best-pc-cooling-method/
-
-
-
-
-- https://www.extremetech.com/computing/54386-top-tip-what-is-phase-change-cooling](https://www.extremetech.com/computing/54386-top-tip-what-is-phase-change-cooling)
+{empty} +
+{empty} +
+{empty} +
+{empty} +
+- https://www.extremetech.com/computing/54386-top-tip-what-is-phase-change-cooling](https://www.extremetech.com/computing/54386-top-tip-what-is-phase-change-cooling)<br />
   
-  Un site où se trouve une définition simple du refroidissement par changement d'état. 
-  ![Phase-changing cooling](/image/changecoolingextremeTech.png)
+  Un site où se trouve une définition simple du refroidissement par changement d'état. <br />
   
-  Ref: EXTREMETECH STAFF. Top Tip: What is phase change cooling? Dans : ExtremeTech [en ligne]. 11 juin 2003. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.extremetech.com/computing/54386-top-tip-what-is-phase-change-cooling
+  ![Phase-changing cooling](/image/changecoolingextremeTech.png)<br />
+  
+  
+  Ref: EXTREMETECH STAFF. Top Tip: What is phase change cooling? Dans : ExtremeTech [en ligne]. 11 juin 2003. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.extremetech.com/computing/54386-top-tip-what-is-phase-change-cooling<br />
 
 
 
 
-- [https://medium.com/computing-technology-with-it-fundamentals/system-hardware-component-cooling-system-in-a-computer-7d8602523c4a](https://medium.com/computing-technology-with-it-fundamentals/system-hardware-component-cooling-system-in-a-computer-7d8602523c4a)
+- [https://medium.com/computing-technology-with-it-fundamentals/system-hardware-component-cooling-system-in-a-computer-7d8602523c4a](https://medium.com/computing-technology-with-it-fundamentals/system-hardware-component-cooling-system-in-a-computer-7d8602523c4a)<br />
 
-Un site reprennant le refroidissement par air et par liquide avec différentes explications pour chacune d'elles.
-![Air and water cooling](/image/coolingsystemehussain.png)
+Un site reprennant le refroidissement par air et par liquide avec différentes explications pour chacune d'elles.<br />
 
-Ref: HUSSAIN, Baseer. System Hardware Component: Cooling system in a Computer. Dans : Medium [en ligne]. 6 mars 2017. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://medium.com/computing-technology-with-it-fundamentals/system-hardware-component-cooling-system-in-a-computer-7d8602523c4a
+![Air and water cooling](/image/coolingsystemehussain.png)<br />
+
+Ref: HUSSAIN, Baseer. System Hardware Component: Cooling system in a Computer. Dans : Medium [en ligne]. 6 mars 2017. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://medium.com/computing-technology-with-it-fundamentals/system-hardware-component-cooling-system-in-a-computer-7d8602523c4a<br />
 
 
 
 
-- [https://www.overclockingmadeinfrance.com/les-differents-types-de-refroidissements-cpu/](https://www.overclockingmadeinfrance.com/les-differents-types-de-refroidissements-cpu/)
+- [https://www.overclockingmadeinfrance.com/les-differents-types-de-refroidissements-cpu/](https://www.overclockingmadeinfrance.com/les-differents-types-de-refroidissements-cpu/)<br />
 
-Un site reprennant les différentes parties du refroidissement par air et une petite explication du refroidissment liquide.
-![Air cooling difference](/image/aircoolingdiff.jpg)
+Un site reprennant les différentes parties du refroidissement par air et une petite explication du refroidissment liquide.<br />
 
-NHU9B. Quels sont les différents types de refroidissements classiques pour CPU ? Dans : Overclocking : Made in France [en ligne]. 27 septembre 2016. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://www.overclockingmadeinfrance.com/les-differents-types-de-refroidissements-cpu/
+![Air cooling difference](/image/aircoolingdiff.jpg)<br />
+
+NHU9B. Quels sont les différents types de refroidissements classiques pour CPU ? Dans : Overclocking : Made in France [en ligne]. 27 septembre 2016. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://www.overclockingmadeinfrance.com/les-differents-types-de-refroidissements-cpu/<br />
 
 
 
