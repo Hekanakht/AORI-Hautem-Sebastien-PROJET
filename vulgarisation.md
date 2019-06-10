@@ -14,4 +14,4 @@ Avant d'enter dans le vif du sujet, je vous propose des sites qui reprennent les
 2. https://www.ebuyer.com/blog/2016/06/whats-the-best-pc-cooling-method/
 
 Un site reprenant les avantages et les inconvénients du refroidissement à air et liquide en anglais.
-![Ebuyerscreenshot](/image/Screenshot_2019-06-10 Whats the best PC Cooling Method - Ebuyer Blog.png)
+![Ebuyer screenshot](/Image/Screenshot_2019-06-10 Whats the best PC Cooling Method - Ebuyer Blog.png)
