@@ -70,4 +70,12 @@ C'est un site comprenant plusieurs shémas qui explique le fonctionnement et le 
 SUN, Xiaoqin, ZHANG, Linfeng et LIAO, Shuguang. Performance of a thermoelectric cooling system integrated with a gravity-assisted heat pipe for cooling electronics. Applied Thermal Engineering [en ligne]. Février 2017, Vol. 116. DOI 10.1016/j.applthermaleng.2016.12.094
 <br>                                                                                                                                              </br>
 <br>                                                                                                                                              </br>
--
+- [http://www.sciencedirect.com/science/article/pii/S1359431109003196](http://www.sciencedirect.com/science/article/pii/S1359431109003196)
+<br>                                                                                                                                              </br>
+Ce site montre des recherches sur le refroidissement thermoélectrique de manière scientifique.
+<br>                                                                                                                                              </br>
+![Recherche empirique sur la TEC](/image/recherchescsurletec.png)
+<br>                                                                                                                                              </br>
+ZHANG, H. Y., MUI, Y. C. et TARIN, M. Analysis of thermoelectric cooler performance for high power electronic packages. Applied Thermal Engineering [en ligne]. Mai 2010, Vol. 30, nᵒ 6, p. 561‑568. DOI 10.1016/j.applthermaleng.2009.10.020
+<br>                                                                                                                                              </br>
+<br>                                                                                                                                              </br>
