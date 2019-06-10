@@ -14,7 +14,7 @@ Le refroidissement par air ou en anglais "air cooling" utilise des systèmes de 
 <br>                                                                                                                                   </br>
 Ce site explique à quoi servent les différents ventilateurs qui peuvent être présent sur différents composants de l'ordinateur:
 <br>                                                                                                                                   </br>
-![Explications des différents ventilateurs sur les différentes pièces de l'ordinateur](/image/tutoaircoling.png)
+![Explications des différents ventilateurs sur les différentes pièces de l'ordinateur](/image/tutoaircooling.png)
 <br>                                                                                                                                   </br>
 Ref: CLEMENT26104. Tuto: Le Refroidissement entre Watercooling et Aircooling. Dans : ConfigsPC.com [en ligne]. 10 décembre 2008. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.configspc.com/forum/viewtopic.php?t=8416
 <br>                                                                                                                                   </br>
