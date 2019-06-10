@@ -30,7 +30,7 @@ Ref: EBUYER. Whats the best PC Cooling Method? Dans : Ebuyer [en ligne]. 29 j
 1.[https://medium.com/computing-technology-with-it-fundamentals/system-hardware-component-cooling-system-in-a-computer-7d8602523c4a](https://medium.com/computing-technology-with-it-fundamentals/system-hardware-component-cooling-system-in-a-computer-7d8602523c4a)
 
 Un site reprennant le refroidissement par air et par liquide avec différentes explications pour chacune d'elles.
-![Air & Liquid cooling](/image/coolingsystemhussain.png)
+![Air and water cooling](/image/coolingsystemehussain.png)
 
 Ref:HUSSAIN, Baseer. System Hardware Component: Cooling system in a Computer. Dans : Medium [en ligne]. 6 mars 2017. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://medium.com/computing-technology-with-it-fundamentals/system-hardware-component-cooling-system-in-a-computer-7d8602523c4a
 
