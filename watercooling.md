@@ -63,7 +63,14 @@ Un site qui explique le le circuit que fait l'eau dans un refroidissement liquid
 ![Système de refroidissement liquide shéma](/image/liquidsystem.png)
 <br>                                                                                                                                               </br>
 SUNDERLAND, James. An ultimate beginners’ guide to PC water cooling. Dans : Medium [en ligne]. 30 mars 2018. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://medium.com/@meohoh/an-ultimate-beginners-guide-to-pc-water-cooling-1dd4c68f1474
-
 <br>                                                                                                                                               </br>
 <br>                                                                                                                                               </br>
-
+- [https://www.youtube.com/watch?v=gQ1lNwCKs-c](https://www.youtube.com/watch?v=gQ1lNwCKs-c)
+<br>                                                                                                                                               </br>
+Cette vidéo bien qu'amateur permet de comprendre et de voir le circuit que fait le liquide dans un système de refroidissement liquide dans une tour de pc.
+<br>                                                                                                                                               </br>
+![Youtube vidéo système refroidissement](/image/ytliquidsystem.png)
+<br>                                                                                                                                               </br>
+TAO OF TECH. Geek School - How Does Water Cooling Work [en ligne]. 27 octobre 2016. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=gQ1lNwCKs-c
+<br>                                                                                                                                               </br>
+<br>                                                                                                                                               </br>
