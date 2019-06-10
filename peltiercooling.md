@@ -33,4 +33,12 @@ Ce site et particulièrement le passage sur la méthode Peltier permet avec une 
 Ref : 4RYAN6. TEC/Peltier CPU Chilled Water Cooling. Dans : Tom’s Hardware Forum [en ligne]. javnier 2013. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://forums.tomshardware.com/threads/tec-peltier-cpu-chilled-water-cooling.1281003/
 <br>                                                                                                                                              </br>
 <br>                                                                                                                                              </br>
-- 
+- [https://www.sciencedirect.com/science/article/pii/S1359431109000155](https://www.sciencedirect.com/science/article/pii/S1359431109000155)
+<br>                                                                                                                                              </br>
+Ce site reprend une définition précise mais très scientifique de la méthode peltier, ainsi qu'une analyse de son comportement.
+<br>                                                                                                                                              </br>
+![définition scientifique de la méthode Peltier](/image/scpeltiercooling.png)
+<br>                                                                                                                                              </br>
+Ref: CHANG, Yu-Wei, CHANG, Chih-Chung, KE, Ming-Tsun et CHEN, Sih-Li. Thermoelectric air-cooling module for electronic devices. Applied Thermal Engineering [en ligne]. Septembre 2009, Vol. 29, nᵒ 13, p. 2731‑2737. DOI 10.1016/j.applthermaleng.2009.01.004
+<br>                                                                                                                                              </br>
+<br>                                                                                                                                              </br>
