@@ -42,4 +42,10 @@ Un site reprennant les différentes parties du refroidissement par air et une pe
 NHU9B. Quels sont les différents types de refroidissements classiques pour CPU ? Dans : Overclocking : Made in France [en ligne]. 27 septembre 2016. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://www.overclockingmadeinfrance.com/les-differents-types-de-refroidissements-cpu/
 
 
+- [https://www.pcgamer.com/pc-cooling-basics/](https://www.pcgamer.com/pc-cooling-basics/)
+
+Un site fiabe reprennant de manière très clairement les différentes manières de refroidissement d'un ordinateur.
+![Different manière de refroidissement du pc](/image/diffcooling.jpg)
+
+KIKUGAWA, Sho. PC Cooling Basics. Dans : PC Gamer [en ligne]. 14 septembre 2015. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.pcgamer.com/pc-cooling-basics/
 
