@@ -20,10 +20,19 @@ Un site reprenant les avantages et les inconvénients du refroidissement à air 
 Ref: EBUYER. Whats the best PC Cooling Method? Dans : Ebuyer [en ligne]. 29 juin 2016. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://www.ebuyer.com/blog/2016/06/whats-the-best-pc-cooling-method/
 
 
-  1. [file:///C:/Users/Argal/Zotero/storage/IPJ45KDF/54386-top-tip-what-is-phase-change-cooling.html](file:///C:/Users/Argal/Zotero/storage/IPJ45KDF/54386-top-tip-what-is-phase-change-cooling.html)
+  1. https://www.extremetech.com/computing/54386-top-tip-what-is-phase-change-cooling](https://www.extremetech.com/computing/54386-top-tip-what-is-phase-change-cooling)
   
   Un site où se trouve une définition simple du refroidissement par changement d'état. 
-  ![Phase-changingcooling](/image/changecoolingextremeTech.png)
+  ![Phase-changing cooling](/image/changecoolingextremeTech.png)
   
   Ref: EXTREMETECH STAFF. Top Tip: What is phase change cooling? Dans : ExtremeTech [en ligne]. 11 juin 2003. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.extremetech.com/computing/54386-top-tip-what-is-phase-change-cooling
+
+1.[https://medium.com/computing-technology-with-it-fundamentals/system-hardware-component-cooling-system-in-a-computer-7d8602523c4a](https://medium.com/computing-technology-with-it-fundamentals/system-hardware-component-cooling-system-in-a-computer-7d8602523c4a)
+
+Un site reprennant le refroidissement par air et par liquide avec différentes explications pour chacune d'elles.
+![Air & Liquid cooling](/image/coolingsystemhussain.png)
+
+Ref:HUSSAIN, Baseer. System Hardware Component: Cooling system in a Computer. Dans : Medium [en ligne]. 6 mars 2017. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://medium.com/computing-technology-with-it-fundamentals/system-hardware-component-cooling-system-in-a-computer-7d8602523c4a
+
+
 
