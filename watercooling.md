@@ -78,7 +78,7 @@ TAO OF TECH. Geek School - How Does Water Cooling Work [en ligne]. 27 octobre 2
 <br>                                                                                                                                               </br>
 Ce site explique comment fontionne un système de refroidissement liquide en reprenant l'exemple d'un refroidissement liquide dans une voiture.
 <br>                                                                                                                                               </br>
-![liquide système = voiture](/image/Icoolingcar.png)
+![liquide système = voiture](/image/lcoolingcar.png)
 <br>                                                                                                                                               </br>
 TRACY V., Wilson. How liquid-cooled PCs Work. Dans : HowStuffWorks [en ligne]. 24 août 2006. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://computer.howstuffworks.com/liquid-cooled-pc.htm
 <br>                                                                                                                                               </br>
