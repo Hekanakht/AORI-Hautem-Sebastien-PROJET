@@ -29,6 +29,15 @@ Ce site explique dans quel liquide est plongé les ordinateurs immergés, permet
 Ref: LILLY, Paul. This is what extreme liquid cooling looks like. Dans : PC Gamer [en ligne]. 14 novembre 2017. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.pcgamer.com/this-is-what-extreme-liquid-cooling-looks-like/
 <br>                                                                                                                                   </br>
 <br>                                                                                                                                   </br>
-- 
+- [https://www.youtube.com/watch?v=hr0qLLv3dKc](https://www.youtube.com/watch?v=hr0qLLv3dKc)
+<br>                                                                                                                                               </br>
+Cette vidéo fiable explique les avantages et inconvénients des refroidissement à air et liquide.
+<br>                                                                                                                                               </br>
+![Youtube vidéo air cooling or water cooling?](/image/ytcollingsl.png)
+<br>                                                                                                                                               </br>
+Ref: LINUS TECH TIPS. The BEST Cooling Solution - Air or Water - FINAL ANSWER [en ligne]. 21 septembre 2017. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=hr0qLLv3dKc
+<br>                                                                                                                                               </br>
+<br>                                                                                                                                               </br>
+-
 
 
