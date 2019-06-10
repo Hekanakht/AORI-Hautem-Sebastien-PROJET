@@ -10,7 +10,7 @@
 
 Le refroidissement par air ou en anglais "air cooling" utilise des systèmes de ventilateurs pour réduire la température des différentes parties du pc:
 
--[https://www.configspc.com/forum/viewtopic.php?t=8416](https://www.configspc.com/forum/viewtopic.php?t=8416)
+- [https://www.configspc.com/forum/viewtopic.php?t=8416](https://www.configspc.com/forum/viewtopic.php?t=8416)
 <br>                                                                                                                                   </br>
 Ce site explique à quoi servent les différents ventilateurs qui peuvent être présent sur différents composants de l'ordinateur:
 <br>                                                                                                                                   </br>
