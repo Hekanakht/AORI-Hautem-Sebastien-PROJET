@@ -32,7 +32,7 @@ Ref: CORSAIR. Corsair PC Building Basics: air CPU cooling vs. liquid CPU cooling
 <br>                                                                                                                                   </br>
 Ce site reprend en détail le fonctionnement du refroidissement par air d'un CPU dans le pc.
 <br>                                                                                                                                   </br>
-[cpu cooler](/image/techspotaircl.jpg)
+![cpu cooler](/image/techspotaircl.jpg)
 <br>                                                                                                                                   </br>
 Ref: FALK, Richard. A brief explanation on CPU coolers. Dans : TechSpot [en ligne]. aout 2016. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.techspot.com/news/65997-brief-explanation-cpu-coolers.html
 
