@@ -7,7 +7,7 @@
 1. [Le refroidissement thermoélectrique ou Peltier cooling](pelitercooling.md)
 1. [Le refroidissement par changement d'étât ou phase-change cooling](phasechangecooling.md)
 
-<h2>Le refroidissement liquide ou water cooling consiste à utiliser une source liquide pour contenir la chaleur des différentes pièces chauffante dans le pc. Il existe plusieurs types de refroidissement liquide dont une consite à plonger la toure entière dans de l'huile déminéralisé.</h2>
+<h2>Le refroidissement liquide ou water cooling consiste à utiliser une source liquide pour contenir la chaleur des différentes pièces chauffante dans le pc. Il existe plusieurs types de refroidissement liquide dont une consite à plonger la toure entière dans de l'huile minéral.</h2>
 
 <br>                                                                                                                                        </br>
 <br>                                                                                                                                        </br>
@@ -18,6 +18,15 @@ Cette vidéo explique comment fonctionne la dispertion de chaleur avec le refroi
 ![Youtube video air cooling corsaire](/image/ytcorsair.png)
 <br>                                                                                                                                   </br>
 Ref: CORSAIR. Corsair PC Building Basics: air CPU cooling vs. liquid CPU cooling [en ligne]. 3 novembre 2015. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=vG3W6yvqTuw
+<br>                                                                                                                                   </br>
+<br>                                                                                                                                   </br>
+-[https://gtxgamer.fr/ordinateurs-et-accessoires/guide-des-meilleurs-systemes-de-refroidissement-liquide-pour-pc/](https://gtxgamer.fr/ordinateurs-et-accessoires/guide-des-meilleurs-systemes-de-refroidissement-liquide-pour-pc/)
+<br>                                                                                                                                               </br>
+Un petit guide qui reprend les différents composants du water cooling pour différentes situtation.
+<br>                                                                                                                                               </br>
+![Système différent du water cooling](/image/bestsystemlc.png)
+<br>                                                                                                                                               </br>
+Rep: GTX GAMER. Les 8 meilleurs refroidisseurs liquide d’UC de 2019. Dans : GTX Gamer : Le guide du pc Gamer [en ligne]. 18 août 2018. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://gtxgamer.fr/ordinateurs-et-accessoires/guide-des-meilleurs-systemes-de-refroidissement-liquide-pour-pc/
 <br>                                                                                                                                   </br>
 <br>                                                                                                                                   </br>
 - [https://www.pcgamer.com/this-is-what-extreme-liquid-cooling-looks-like/](https://www.pcgamer.com/this-is-what-extreme-liquid-cooling-looks-like/)
@@ -38,13 +47,13 @@ Cette vidéo fiable explique les avantages et inconvénients des refroidissement
 Ref: LINUS TECH TIPS. The BEST Cooling Solution - Air or Water - FINAL ANSWER [en ligne]. 21 septembre 2017. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=hr0qLLv3dKc
 <br>                                                                                                                                               </br>
 <br>                                                                                                                                               </br>
--[https://gtxgamer.fr/ordinateurs-et-accessoires/guide-des-meilleurs-systemes-de-refroidissement-liquide-pour-pc/](https://gtxgamer.fr/ordinateurs-et-accessoires/guide-des-meilleurs-systemes-de-refroidissement-liquide-pour-pc/)
+- [https://bleuit.com/liquid-cooling-submerging-your-pc-in-mineral-oil-671/](https://bleuit.com/liquid-cooling-submerging-your-pc-in-mineral-oil-671/)
 <br>                                                                                                                                               </br>
-Un petit guide qui reprend les différents composants du water cooling pour différentes situtation.
+Un site qui explique pourquoi il faut utiliser de l'huile minéral pour submerger son pc afin de réduire au maximum la température des autres composants.
 <br>                                                                                                                                               </br>
-![Système différent du water cooling](/image/bestsystemlc.png)
+![Huile minéral explication](/image/huilemineral.png)
 <br>                                                                                                                                               </br>
-Rep: GTX GAMER. Les 8 meilleurs refroidisseurs liquide d’UC de 2019. Dans : GTX Gamer : Le guide du pc Gamer [en ligne]. 18 août 2018. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://gtxgamer.fr/ordinateurs-et-accessoires/guide-des-meilleurs-systemes-de-refroidissement-liquide-pour-pc/
+NOON, James. Liquid Cooling – Submerging Your PC In Mineral Oil. Dans : Bleu it consultants limited [en ligne]. 7 juillet 2015. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://bleuit.com/liquid-cooling-submerging-your-pc-in-mineral-oil-671/
 <br>                                                                                                                                               </br>
 <br>                                                                                                                                               </br>
-
+- 
