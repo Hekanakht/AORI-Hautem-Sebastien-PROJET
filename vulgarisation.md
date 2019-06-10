@@ -11,8 +11,8 @@
 Avant d'enter dans le vif du sujet, je vous propose des sites qui reprennent les différents systèmes de refroidissement mais avec un language plus simple et accessible pour comprendre les bases et ses fonctionnements.
 
 
-2. https://www.ebuyer.com/blog/2016/06/whats-the-best-pc-cooling-method/
+2. [Ebuyer](https://www.ebuyer.com/blog/2016/06/whats-the-best-pc-cooling-method/)
 
 
-<p>Un site reprenant les avantages et les inconvénients du refroidissement à air et liquide en anglais.</p>
-![Ebuyer screenshot](/image/Ebuyer.png)
+Un site reprenant les avantages et les inconvénients du refroidissement à air et liquide en anglais.
+![Ebuyerscreenshot](/image/Ebuyer.png)
