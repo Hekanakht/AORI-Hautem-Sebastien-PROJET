@@ -83,3 +83,12 @@ Cette vidéo fiable explique les avantages et inconvénients des refroidissement
 Ref: LINUS TECH TIPS. The BEST Cooling Solution - Air or Water - FINAL ANSWER [en ligne]. 21 septembre 2017. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=hr0qLLv3dKc
 <br>                                                                                                                                               </br>
 <br>                                                                                                                                               </br>
+- [https://www.anandtech.com/show/437](https://www.anandtech.com/show/437)
+<br>                                                                                                                                               </br>
+Ce site explique comment la chaleur se propage dans le pc de manière scientifique et comment elle est évacuée.
+<br>                                                                                                                                               </br>
+![propagation de la chaleur](/image/hotaircooling.png)
+<br>                                                                                                                                               </br>
+Ref: STEINBRECHER, Tillmann. Heatsink Guide - The Basics of Cooling & Heatsink Technology. Dans : AnandTech [en ligne]. 5 janvier 2000. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://www.anandtech.com/show/437
+<br>                                                                                                                                               </br>
+<br>                                                                                                                                               </br>
