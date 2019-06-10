@@ -21,7 +21,7 @@ Ref: CLEMENT26104. Tuto: Le Refroidissement entre Watercooling et Aircooling. Da
 <br>                                                                                                                                   </br>
 - [https://www.youtube.com/watch?v=vG3W6yvqTuw](https://www.youtube.com/watch?v=vG3W6yvqTuw)
 <br>                                                                                                                                   </br>
-Cette vidéo explique comment fonctionne la dispertion de chaleur avec le refroidissement par ventilateurs. (Attention, inclut une communication commercial).
+Cette vidéo explique comment fonctionne la dispertion de chaleur avec le refroidissement par ventilateurs, ainsi qu'avec le refroidissement liquide. (Attention, inclut une communication commercial).
 <br>                                                                                                                                   </br>
 ![Youtube vidéo Air cooling corsaire](/image/ytcorsair.png)
 <br>                                                                                                                                   </br>
