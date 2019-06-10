@@ -28,4 +28,13 @@ Cette vidéo explique comment fonctionne la dispertion de chaleur avec le refroi
 Ref: CORSAIR. Corsair PC Building Basics: air CPU cooling vs. liquid CPU cooling [en ligne]. 3 novembre 2015. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=vG3W6yvqTuw
 <br>                                                                                                                                   </br>
 <br>                                                                                                                                   </br>
-- 
+- [https://www.techspot.com/news/65997-brief-explanation-cpu-coolers.html](https://www.techspot.com/news/65997-brief-explanation-cpu-coolers.html)
+<br>                                                                                                                                   </br>
+Ce site reprend en détail le fonctionnement du refroidissement par air d'un CPU dans le pc.
+<br>                                                                                                                                   </br>
+[Explications détailées d'un CPU cooler](/image/techspotaircl.jpg)
+<br>                                                                                                                                   </br>
+Ref: FALK, Richard. A brief explanation on CPU coolers. Dans : TechSpot [en ligne]. aout 2016. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.techspot.com/news/65997-brief-explanation-cpu-coolers.html
+
+<br>                                                                                                                                   </br>
+<br>                                                                                                                                   </br>
