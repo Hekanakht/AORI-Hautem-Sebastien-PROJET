@@ -10,7 +10,7 @@
 <br>                                                                                                                                              </br>
 <br>                                                                                                                                              </br>
 
-<h2> Le refroidissement thermoélectique ou le refroidissement par la méthode Peltier est un processus physique qui utilise de l'électricité sur une plaque qui deviendra d'un coté extrèment chaud et de l'autre, extrèmement froid, utile pour refroidire le processeur. </h2> 
+Le refroidissement thermoélectique ou le refroidissement par la méthode Peltier est un processus physique qui utilise de l'électricité sur une plaque qui deviendra d'un coté extrèment chaud et de l'autre, extrèmement froid, utile pour refroidire le processeur. 
 
 <br>                                                                                                                                              </br>
 <br>                                                                                                                                              </br>
