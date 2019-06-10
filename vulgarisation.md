@@ -31,7 +31,7 @@ Ref: EBUYER. Whats the best PC Cooling Method? Dans : Ebuyer [en ligne]. 29 j
 Un site reprennant le refroidissement par air et par liquide avec différentes explications pour chacune d'elles.
 ![Air and water cooling](/image/coolingsystemehussain.png)
 
-Ref:HUSSAIN, Baseer. System Hardware Component: Cooling system in a Computer. Dans : Medium [en ligne]. 6 mars 2017. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://medium.com/computing-technology-with-it-fundamentals/system-hardware-component-cooling-system-in-a-computer-7d8602523c4a
+Ref: HUSSAIN, Baseer. System Hardware Component: Cooling system in a Computer. Dans : Medium [en ligne]. 6 mars 2017. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://medium.com/computing-technology-with-it-fundamentals/system-hardware-component-cooling-system-in-a-computer-7d8602523c4a
 
 
 - [https://www.overclockingmadeinfrance.com/les-differents-types-de-refroidissements-cpu/](https://www.overclockingmadeinfrance.com/les-differents-types-de-refroidissements-cpu/)
@@ -44,8 +44,15 @@ NHU9B. Quels sont les différents types de refroidissements classiques pour CPU�
 
 - [https://www.pcgamer.com/pc-cooling-basics/](https://www.pcgamer.com/pc-cooling-basics/)
 
-Un site fiabe reprennant de manière très clairement les différentes manières de refroidissement d'un ordinateur.
+Un site fiable reprennant de manière très clairement les différentes manières de refroidissement d'un ordinateur.
 ![Different manière de refroidissement du pc](/image/diffcooling.jpg)
 
-KIKUGAWA, Sho. PC Cooling Basics. Dans : PC Gamer [en ligne]. 14 septembre 2015. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.pcgamer.com/pc-cooling-basics/
+Ref: KIKUGAWA, Sho. PC Cooling Basics. Dans : PC Gamer [en ligne]. 14 septembre 2015. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.pcgamer.com/pc-cooling-basics/
 
+
+-[https://fr.wikibooks.org/wiki/Monter_un_PC/Fonctionnement#Phase-change_cooling](https://fr.wikibooks.org/wiki/Monter_un_PC/Fonctionnement#Phase-change_cooling)
+
+Un site très peu fiable mais qui donne quand même des inforamtions générales sur les différentes méthodes de refroidissements.
+![Wiki refroidissement](/image/wikicooling.jpg)
+
+Ref: WIKIBOOKS. Monter un PC/Fonctionnement. Dans : Wikibooks [en ligne]. 2012. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://fr.wikibooks.org/wiki/Monter_un_PC/Fonctionnement
