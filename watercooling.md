@@ -19,3 +19,16 @@ Cette vidéo explique comment fonctionne la dispertion de chaleur avec le refroi
 Ref: CORSAIR. Corsair PC Building Basics: air CPU cooling vs. liquid CPU cooling [en ligne]. 3 novembre 2015. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=vG3W6yvqTuw
 <br>                                                                                                                                   </br>
 <br>                                                                                                                                   </br>
+
+- [https://www.pcgamer.com/this-is-what-extreme-liquid-cooling-looks-like/](https://www.pcgamer.com/this-is-what-extreme-liquid-cooling-looks-like/)
+<br>                                                                                                                                   </br>
+Ce site explique dans quel liquide est plongé les ordinateurs immergés, permettant ainsi de réduire considérablement la chaleur.
+<br>                                                                                                                                   </br>
+![immerges PC water cooling](/image/imliquidcl.png)
+<br>                                                                                                                                   </br>
+Ref: LILLY, Paul. This is what extreme liquid cooling looks like. Dans : PC Gamer [en ligne]. 14 novembre 2017. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.pcgamer.com/this-is-what-extreme-liquid-cooling-looks-like/
+<br>                                                                                                                                   </br>
+<br>                                                                                                                                   </br>
+
+
+
