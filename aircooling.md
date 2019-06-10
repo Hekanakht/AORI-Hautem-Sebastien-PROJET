@@ -65,3 +65,12 @@ Un site qui explique que l'emplacement des ventilateur dans l'air cooling est tr
 Ref : IMMS, Janson. ExtremeTech’s guide to air cooling your PC - ExtremeTech. Dans : ExtremeTech [en ligne]. 3 mai 2012. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://www.extremetech.com/computing/128313-extremetechs-guide-to-air-cooling-your-pc
 <br>                                                                                                                                               </br>
 <br>                                                                                                                                               </br>
+- [https://smallbusiness.chron.com/cpu-cooling-fan-work-61608.html](https://smallbusiness.chron.com/cpu-cooling-fan-work-61608.html)
+<br>                                                                                                                                               </br>
+Ce site explique pourquoi l'air cooling et le refroidissement de l'oirdinateur est important.
+<br>                                                                                                                                               </br>
+![CPU cooling Fan explications](/image/cpucoolingfan.png)
+<br>                                                                                                                                               </br>
+Ref : KAZMEYER, Milton. How does a CPU cooling fan Work? Dans : Chron [en ligne]. 2019. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://smallbusiness.chron.com/cpu-cooling-fan-work-61608.html
+<br>                                                                                                                                               </br>
+<br>                                                                                                                                               </br>
