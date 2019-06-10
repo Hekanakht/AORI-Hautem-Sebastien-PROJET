@@ -74,3 +74,12 @@ Ce site explique pourquoi l'air cooling et le refroidissement de l'oirdinateur e
 Ref : KAZMEYER, Milton. How does a CPU cooling fan Work? Dans : Chron [en ligne]. 2019. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://smallbusiness.chron.com/cpu-cooling-fan-work-61608.html
 <br>                                                                                                                                               </br>
 <br>                                                                                                                                               </br>
+- [https://www.youtube.com/watch?v=hr0qLLv3dKc](https://www.youtube.com/watch?v=hr0qLLv3dKc)
+<br>                                                                                                                                               </br>
+Cette vidéo fiable explique les avantages et inconvénients des refroidissement à air et liquide.
+<br>                                                                                                                                               </br>
+![Youtube vidéo air cooling or water cooling?](/image/ytcollingsl.png)
+<br>                                                                                                                                               </br>
+Ref: LINUS TECH TIPS. The BEST Cooling Solution - Air or Water - FINAL ANSWER [en ligne]. 21 septembre 2017. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=hr0qLLv3dKc
+<br>                                                                                                                                               </br>
+<br>                                                                                                                                               </br>
