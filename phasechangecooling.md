@@ -20,6 +20,16 @@ Ce site explique de manière très simplifiée comment le phase-change cooling p
 <br>                                                                                                                                  </br>
 ![Explication phase-change cooling](/image/phasechangeclexplication.png)
 <br>                                                                                                                                  </br>
-DIMASTECH. Phase change cooling systems. Dans : Dimastech [en ligne]. 28 mars 2014. [Consulté le 7 juin 2019]. Disponible à l’adresse : http://www.dimastech.com/en/cascade-phase-change-cooling-systems
+Ref : DIMASTECH. Phase change cooling systems. Dans : Dimastech [en ligne]. 28 mars 2014. [Consulté le 7 juin 2019]. Disponible à l’adresse : http://www.dimastech.com/en/cascade-phase-change-cooling-systems
+<br>                                                                                                                                  </br>
+<br>                                                                                                                                  </br>
+- [https://www.extremetech.com/computing/54386-top-tip-what-is-phase-change-cooling](https://www.extremetech.com/computing/54386-top-tip-what-is-phase-change-cooling)
+<br>                                                                                                                                  </br>
+Ce site explique que le phase-change cooling est extrêment couteux et qu'il n'est vraiment pas intéressant si ce n'est pour overclock.
+<br>                                                                                                                                  </br>
+![ExtremTech points négatifs du phase-change cooling](/image/extremtechphch.png)
+<br>                                                                                                                                  </br>
+Ref : EXTREMETECH STAFF. Top Tip: What is phase change cooling? Dans : ExtremeTech [en ligne]. 11 juin 2003. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.extremetech.com/computing/54386-top-tip-what-is-phase-change-cooling
+
 <br>                                                                                                                                  </br>
 <br>                                                                                                                                  </br>
