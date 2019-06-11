@@ -33,3 +33,12 @@ Ref : EXTREMETECH STAFF. Top Tip: What is phase change cooling? Dans : Extreme
 
 <br>                                                                                                                                  </br>
 <br>                                                                                                                                  </br>
+- [https://www.youtube.com/watch?v=AZAUnl37Cr8](https://www.youtube.com/watch?v=AZAUnl37Cr8)
+<br>                                                                                                                                  </br>
+ Cette vidéo nous montre et explique un système de phase-change cooling implanté dans un ordinateur.
+<br>                                                                                                                                  </br>
+![Vidéo show phase-change cooling](/image/ytphasechange.png)
+<br>                                                                                                                                  </br>
+Ref: GAMERS NEXUS. Phase-Change Cooler & Novec Cooling | Der8auer Phase-Shift Cooler [en ligne]. 5 juin 2018. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=AZAUnl37Cr8
+<br>                                                                                                                                  </br>
+<br>                                                                                                                                  </br>
