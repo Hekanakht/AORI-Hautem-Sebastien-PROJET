@@ -24,7 +24,7 @@ Ref: EBUYER. Whats the best PC Cooling Method? Dans : Ebuyer [en ligne]. 29 j
 
 
 
-- https://www.extremetech.com/computing/54386-top-tip-what-is-phase-change-cooling](https://www.extremetech.com/computing/54386-top-tip-what-is-phase-change-cooling)
+- [https://www.extremetech.com/computing/54386-top-tip-what-is-phase-change-cooling](https://www.extremetech.com/computing/54386-top-tip-what-is-phase-change-cooling)
 
   Un site où se trouve une définition simple du refroidissement par changement d'état. 
   ![Phase-changing cooling](/image/changecoolingextremeTech.png)
