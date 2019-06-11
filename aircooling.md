@@ -5,7 +5,7 @@
 1. *Le refroidissement à air ou air cooling*
 1. [Le refroidissement liquide ou water cooling](watercooling.md)
 1. [Le refroidissement thermoélectrique ou Peltier cooling](peltiercooling.md)
-1. [Le refroidissement par changement d'étât ou phase-change cooling](phasechangecooling.md)
+1. [Le refroidissement par changement d'état ou phase-change cooling](phasechangecooling.md)
 
 
 <h2>Le refroidissement par air ou en anglais "air cooling" utilise des systèmes de ventilateurs pour réduire la température des différentes parties du pc:</h2>
