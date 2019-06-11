@@ -48,7 +48,7 @@ Ce site nous présente une explication clair de ce qu'est un système de refroid
 <br>                                                                                                                                  </br>
 ![Explication Phase-change cooling](/image/explicationphcl.png)
 <br>                                                                                                                                  </br>
-PCMAG. Definition of: phase change cooler. Dans : PCMAG [en ligne]. 10 mai 2013. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://www.pcmag.com/encyclopedia/term/60080/phase-change-cooler
+Ref: PCMAG. Definition of: phase change cooler. Dans : PCMAG [en ligne]. 10 mai 2013. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://www.pcmag.com/encyclopedia/term/60080/phase-change-cooler
 <br>                                                                                                                                  </br>
 <br>                                                                                                                                  </br>
 - [https://searchnetworking.techtarget.com/definition/phase-change-cooling](https://searchnetworking.techtarget.com/definition/phase-change-cooling-
@@ -57,7 +57,16 @@ Ce site nous propose une définition et petite explication d'un système de refr
 <br>                                                                                                                                  </br>
 ![Définition phase-change cooling](/image/defphasechangecl.png)
 <br>                                                                                                                                  </br>
-ROUSE, Margaret. Phase-change cooling (vapor cooling). Dans : SearchNetworking [en ligne]. novembre 2008. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://searchnetworking.techtarget.com/definition/phase-change-cooling
+Ref: ROUSE, Margaret. Phase-change cooling (vapor cooling). Dans : SearchNetworking [en ligne]. novembre 2008. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://searchnetworking.techtarget.com/definition/phase-change-cooling
 <br>                                                                                                                                  </br>
 <br>                                                                                                                                  </br>
-- 
+- [https://www.techopedia.com/definition/13727/phase-change-cooling](https://www.techopedia.com/definition/13727/phase-change-cooling)
+<br>                                                                                                                                  </br>
+Ce site nous reprend une explication clair et présice de ce qu'est un phase change cooling.
+<br>                                                                                                                                  </br>
+![Explication clair et présice du phase change cooling](/image/phasechangecoolingtech.png)
+<br>                                                                                                                                  </br>
+Ref : TECHOPEDIA. Phase-change cooling. Dans : Techopedia [en ligne]. 13 janvier 2012. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://www.techopedia.com/definition/13727/phase-change-cooling
+<br>                                                                                                                                  </br>
+<br>                                                                                                                                  </br>
+
