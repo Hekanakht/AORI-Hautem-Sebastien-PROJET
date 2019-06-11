@@ -42,3 +42,12 @@ Ref : EXTREMETECH STAFF. Top Tip: What is phase change cooling? Dans : Extreme
 Ref: GAMERS NEXUS. Phase-Change Cooler & Novec Cooling | Der8auer Phase-Shift Cooler [en ligne]. 5 juin 2018. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=AZAUnl37Cr8
 <br>                                                                                                                                  </br>
 <br>                                                                                                                                  </br>
+- [https://searchnetworking.techtarget.com/definition/phase-change-cooling](https://searchnetworking.techtarget.com/definition/phase-change-cooling-
+<br>                                                                                                                                  </br>
+Ce site nous propose une définition et petite explication d'un système de refroidissement par changement d'état.
+<br>                                                                                                                                  </br>
+![Définition phase-change cooling](/image/defphasechangecl.png)
+<br>                                                                                                                                  </br>
+ROUSE, Margaret. Phase-change cooling (vapor cooling). Dans : SearchNetworking [en ligne]. novembre 2008. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://searchnetworking.techtarget.com/definition/phase-change-cooling
+<br>                                                                                                                                  </br>
+<br>                                                                                                                                  </br>
