@@ -9,77 +9,97 @@
 
 <h2>Le refroidissement liquide ou water cooling consiste à utiliser une source liquide pour contenir la chaleur des différentes pièces chauffante dans le pc. Il existe plusieurs types de refroidissement liquide dont une consite à plonger la toure entière dans de l'huile minéral.</h2>
 
-<br>                                                                                                                                        </br>
-<br>                                                                                                                                        </br>
+
+
+
+
 - [https://www.youtube.com/watch?v=vG3W6yvqTuw](https://www.youtube.com/watch?v=vG3W6yvqTuw)
-<br>                                                                                                                                   </br>
+
 Cette vidéo explique comment fonctionne la dispertion de chaleur avec le refroidissement par ventilateurs, ainsi qu'avec le refroidissement liquide. (Attention, inclut une communication commercial).
-<br>                                                                                                                                   </br>
+
 ![Youtube video air cooling corsaire](/image/ytcorsair.png)
-<br>                                                                                                                                   </br>
+
 Ref: CORSAIR. Corsair PC Building Basics: air CPU cooling vs. liquid CPU cooling [en ligne]. 3 novembre 2015. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=vG3W6yvqTuw
-<br>                                                                                                                                   </br>
-<br>                                                                                                                                   </br>
+
+
+
+
 -[https://gtxgamer.fr/ordinateurs-et-accessoires/guide-des-meilleurs-systemes-de-refroidissement-liquide-pour-pc/](https://gtxgamer.fr/ordinateurs-et-accessoires/guide-des-meilleurs-systemes-de-refroidissement-liquide-pour-pc/)
-<br>                                                                                                                                               </br>
+
 Un petit guide qui reprend les différents composants du water cooling pour différentes situtation.
-<br>                                                                                                                                               </br>
+
 ![Système différent du water cooling](/image/bestsystemlc.png)
-<br>                                                                                                                                               </br>
+
 Rep: GTX GAMER. Les 8 meilleurs refroidisseurs liquide d’UC de 2019. Dans : GTX Gamer : Le guide du pc Gamer [en ligne]. 18 août 2018. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://gtxgamer.fr/ordinateurs-et-accessoires/guide-des-meilleurs-systemes-de-refroidissement-liquide-pour-pc/
-<br>                                                                                                                                   </br>
-<br>                                                                                                                                   </br>
+
+
+
+
 - [https://www.pcgamer.com/this-is-what-extreme-liquid-cooling-looks-like/](https://www.pcgamer.com/this-is-what-extreme-liquid-cooling-looks-like/)
-<br>                                                                                                                                   </br>
+
 Ce site explique dans quel liquide est plongé les ordinateurs immergés, permettant ainsi de réduire considérablement la chaleur.
-<br>                                                                                                                                   </br>
+
 ![immerges PC water cooling](/image/imliquidcl.png)
-<br>                                                                                                                                   </br>
+
 Ref: LILLY, Paul. This is what extreme liquid cooling looks like. Dans : PC Gamer [en ligne]. 14 novembre 2017. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.pcgamer.com/this-is-what-extreme-liquid-cooling-looks-like/
-<br>                                                                                                                                   </br>
-<br>                                                                                                                                   </br>
+
+
+
+
 - [https://www.youtube.com/watch?v=hr0qLLv3dKc](https://www.youtube.com/watch?v=hr0qLLv3dKc)
-<br>                                                                                                                                               </br>
+
 Cette vidéo fiable explique les avantages et inconvénients des refroidissement à air et liquide.
-<br>                                                                                                                                               </br>
+
 ![Youtube vidéo air cooling or water cooling?](/image/ytcollingsl.png)
-<br>                                                                                                                                               </br>
+
 Ref: LINUS TECH TIPS. The BEST Cooling Solution - Air or Water - FINAL ANSWER [en ligne]. 21 septembre 2017. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=hr0qLLv3dKc
-<br>                                                                                                                                               </br>
-<br>                                                                                                                                               </br>
+
+
+
+
 - [https://bleuit.com/liquid-cooling-submerging-your-pc-in-mineral-oil-671/](https://bleuit.com/liquid-cooling-submerging-your-pc-in-mineral-oil-671/)
-<br>                                                                                                                                               </br>
+
 Un site qui explique pourquoi il faut utiliser de l'huile minéral pour submerger son pc afin de réduire au maximum la température des autres composants.
-<br>                                                                                                                                               </br>
+
 ![Huile minéral explication](/image/huilemineral.png)
-<br>                                                                                                                                               </br>
+
 NOON, James. Liquid Cooling – Submerging Your PC In Mineral Oil. Dans : Bleu it consultants limited [en ligne]. 7 juillet 2015. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://bleuit.com/liquid-cooling-submerging-your-pc-in-mineral-oil-671/
-<br>                                                                                                                                               </br>
-<br>                                                                                                                                               </br>
+
+
+
+
+
 - [https://medium.com/@meohoh/an-ultimate-beginners-guide-to-pc-water-cooling-1dd4c68f1474](https://medium.com/@meohoh/an-ultimate-beginners-guide-to-pc-water-cooling-1dd4c68f1474)
-<br>                                                                                                                                               </br>
+
 Un site qui explique le le circuit que fait l'eau dans un refroidissement liquide, tout en expliquant les différents types qui existe dans le water cooling.
-<br>                                                                                                                                               </br>
+
 ![Système de refroidissement liquide shéma](/image/liquidsystem.png)
-<br>                                                                                                                                               </br>
+
 SUNDERLAND, James. An ultimate beginners’ guide to PC water cooling. Dans : Medium [en ligne]. 30 mars 2018. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://medium.com/@meohoh/an-ultimate-beginners-guide-to-pc-water-cooling-1dd4c68f1474
-<br>                                                                                                                                               </br>
-<br>                                                                                                                                               </br>
+
+
+
+
+
 - [https://www.youtube.com/watch?v=gQ1lNwCKs-c](https://www.youtube.com/watch?v=gQ1lNwCKs-c)
-<br>                                                                                                                                               </br>
+
 Cette vidéo bien qu'amateur permet de comprendre et de voir le circuit que fait le liquide dans un système de refroidissement liquide dans une tour de pc.
-<br>                                                                                                                                               </br>
+
 ![Youtube vidéo système refroidissement](/image/ytliquidsystem.png)
-<br>                                                                                                                                               </br>
+
 TAO OF TECH. Geek School - How Does Water Cooling Work [en ligne]. 27 octobre 2016. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=gQ1lNwCKs-c
-<br>                                                                                                                                               </br>
-<br>                                                                                                                                               </br>
+
+
+
+
 - [https://computer.howstuffworks.com/liquid-cooled-pc.htm](https://computer.howstuffworks.com/liquid-cooled-pc.htm)
-<br>                                                                                                                                               </br>
+
 Ce site explique comment fontionne un système de refroidissement liquide en reprenant l'exemple d'un refroidissement liquide dans une voiture.
-<br>                                                                                                                                               </br>
+
 ![liquide système = voiture](/image/lcoolingcar.png)
-<br>                                                                                                                                               </br>
+
 TRACY V., Wilson. How liquid-cooled PCs Work. Dans : HowStuffWorks [en ligne]. 24 août 2006. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://computer.howstuffworks.com/liquid-cooled-pc.htm
-<br>                                                                                                                                               </br>
-<br>                                                                                                                                               </br>
+
+
+
+
