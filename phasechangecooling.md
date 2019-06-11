@@ -1,16 +1,16 @@
-<h1>Le refroidissement par changement d'étât ou phase-change cooling </h1>
+<h1>Le refroidissement par changement d'état ou phase-change cooling </h1>
 
-1. [acceuil](index.md)
+1. [Accueil](index.md)
 1. [Vulgarisation](vulgarisation.md)
 1. [Le refroidissement à air ou air cooling](aircooling.md)
 1. [Le refroidissement liquide ou water cooling](watercooling.md)
 1. [Le refroidissement thermoélectrique ou Peltier cooling](peltiercooling.md)
-1. *Le refroidissement par changement d'étât ou phase-change cooling*
+1. *Le refroidissement par changement d'état ou phase-change cooling*
 
 
 
 
-<h2> Le refroidissement par changement d'étât ou phase-change cooling est un processus de refroidissement qui fait chauffer un liquide qui se transforme en gaz, puis se recondense pour diminuer la chaleur des différents composants contenu dans l'ordinateur.</h2>
+<h2> Le refroidissement par changement d'état ou phase-change cooling est un processus de refroidissement qui fait chauffer un liquide qui se transforme en gaz, puis se recondense pour diminuer la chaleur des différents composants contenu dans l'ordinateur.</h2>
 
 
 
@@ -28,7 +28,7 @@ Ref : DIMASTECH. Phase change cooling systems. Dans : Dimastech [en ligne]. 2
 
 - [https://www.extremetech.com/computing/54386-top-tip-what-is-phase-change-cooling](https://www.extremetech.com/computing/54386-top-tip-what-is-phase-change-cooling)
 
-Ce site explique que le phase-change cooling est extrêment couteux et qu'il n'est vraiment pas intéressant si ce n'est pour overclock.
+Ce site explique que le phase-change cooling est extrêment coûteux et qu'il n'est vraiment pas intéressant si ce n'est pour overclock.
 
 ![ExtremTech points négatifs du phase-change cooling](/image/extremtechphch.png)
 
@@ -50,7 +50,7 @@ Ref: GAMERS NEXUS. Phase-Change Cooler & Novec Cooling | Der8auer Phase-Shift Co
 
 - [https://www.pcmag.com/encyclopedia/term/60080/phase-change-cooler](https://www.pcmag.com/encyclopedia/term/60080/phase-change-cooler)
 
-Ce site nous présente une explication clair de ce qu'est un système de refroidissement par changement-d'état.
+Ce site nous présente une explication claire de ce qu'est un système de refroidissement par changement-d'état.
 
 ![Explication Phase-change cooling](/image/explicationphcl.png)
 
@@ -72,7 +72,7 @@ Ref: ROUSE, Margaret. Phase-change cooling (vapor cooling). Dans : SearchNetwo
 
 - [https://www.techopedia.com/definition/13727/phase-change-cooling](https://www.techopedia.com/definition/13727/phase-change-cooling)
 
-Ce site nous reprend une explication clair et présice de ce qu'est un phase change cooling.
+Ce site nous reprend une explication claire et présice de ce qu'est un phase change cooling.
 
 ![Explication clair et présice du phase change cooling](/image/phasechangecoolingtech.png)
 
