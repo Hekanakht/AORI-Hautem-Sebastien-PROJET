@@ -1,6 +1,6 @@
 <h1> Vulgarisation </h1>
 
-1. [acceuil](index.md)
+1. [accueil](index.md)
 1. *Vulgarisation*
 1. [Le refroidissement à air ou air cooling](Aircooling.md)
 1. [Le refroidissement liquide ou water cooling](watercooling.md)
@@ -8,7 +8,7 @@
 1. [Le refroidissement par changement d'étât ou phase-change cooling](phasechangecooling.md)
 
 
-<h2>Avant d'enter dans le vif du sujet, je vous propose des sites qui reprennent les différents systèmes de refroidissement mais avec un language plus simple et accessible pour comprendre les bases et ses fonctionnements.</h2>
+<h2>Avant d'entrer dans le vif du sujet, je vous propose des sites qui reprennent les différents systèmes de refroidissement mais avec un language plus simple et accessible pour comprendre les bases et ses fonctionnements.</h2>
 
 
 
@@ -58,7 +58,7 @@ NHU9B. Quels sont les différents types de refroidissements classiques pour CPU�
 
 - [https://www.pcgamer.com/pc-cooling-basics/](https://www.pcgamer.com/pc-cooling-basics/)
 
-Un site fiable reprennant de manière très clairement les différentes manières de refroidissement d'un ordinateur.
+Un site fiable reprennant de manière très claire les différentes manières de refroidissement d'un ordinateur.
 ![Different manière de refroidissement du pc](/image/diffcooling.jpg)
 
 Ref: KIKUGAWA, Sho. PC Cooling Basics. Dans : PC Gamer [en ligne]. 14 septembre 2015. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.pcgamer.com/pc-cooling-basics/
@@ -68,7 +68,7 @@ Ref: KIKUGAWA, Sho. PC Cooling Basics. Dans : PC Gamer [en ligne]. 14 septemb
 
 -[https://fr.wikibooks.org/wiki/Monter_un_PC/Fonctionnement#Phase-change_cooling](https://fr.wikibooks.org/wiki/Monter_un_PC/Fonctionnement#Phase-change_cooling)
 
-Un site très peu fiable mais qui donne quand même des inforamtions générales sur les différentes méthodes de refroidissements.
+Un site à la fiabilité douteuse mais qui donne quand même des inforamtions générales sur les différentes méthodes de refroidissements.
 ![Wiki refroidissement](/image/wikicooling.png)
 
 Ref: WIKIBOOKS. Monter un PC/Fonctionnement. Dans : Wikibooks [en ligne]. 2012. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://fr.wikibooks.org/wiki/Monter_un_PC/Fonctionnement
