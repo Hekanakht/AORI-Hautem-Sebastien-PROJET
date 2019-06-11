@@ -1,6 +1,6 @@
 <h1> Vulgarisation </h1>
 
-1. [accueil](index.md)
+1. [Accueil](index.md)
 1. *Vulgarisation*
 1. [Le refroidissement à air ou air cooling](Aircooling.md)
 1. [Le refroidissement liquide ou water cooling](watercooling.md)
