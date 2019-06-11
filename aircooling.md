@@ -1,6 +1,6 @@
 <h1> Le refroidissement à air ou air cooling </h1>
 
-1. [acceuil](index.md)
+1. [Accueil](index.md)
 1. [Vulgarisation](vulgarisation.md)
 1. *Le refroidissement à air ou air cooling*
 1. [Le refroidissement liquide ou water cooling](watercooling.md)
@@ -22,7 +22,7 @@ Ref: CLEMENT26104. Tuto: Le Refroidissement entre Watercooling et Aircooling. Da
 
 - [https://www.youtube.com/watch?v=vG3W6yvqTuw](https://www.youtube.com/watch?v=vG3W6yvqTuw)
 
-Cette vidéo explique comment fonctionne la dispertion de chaleur avec le refroidissement par ventilateurs, ainsi qu'avec le refroidissement liquide. (Attention, inclut une communication commercial).
+Cette vidéo explique comment fonctionne la dispertion de la chaleur avec le refroidissement par ventilateurs, ainsi qu'avec le refroidissement liquide. (Attention, inclut une communication commercial).
 
 ![Youtube vidéo Air cooling corsaire](/image/ytcorsair.png)
 
@@ -55,7 +55,7 @@ Ref: GAMERS NEXUS. TLDR: How Heatpipes & Air Coolers Work (w/ animation) [en li
 
 - [https://medium.com/computing-technology-with-it-fundamentals/system-hardware-component-cooling-system-in-a-computer-7d8602523c4a](https://medium.com/computing-technology-with-it-fundamentals/system-hardware-component-cooling-system-in-a-computer-7d8602523c4a)
 
-Un site reprennant le refroidissement par air et par liquide avec différentes explications pour chacune d'elles.
+Un site reprennant le refroidissement par air et par liquide avec différentes explications pour chacune d'elle.
 
 ![Air and water cooling](/image/coolingsystemehussain.png)
 
@@ -77,7 +77,7 @@ Ref : IMMS, Janson. ExtremeTech’s guide to air cooling your PC - ExtremeTech. 
 
 - [https://smallbusiness.chron.com/cpu-cooling-fan-work-61608.html](https://smallbusiness.chron.com/cpu-cooling-fan-work-61608.html)
 
-Ce site explique pourquoi l'air cooling et le refroidissement de l'oirdinateur est important.
+Ce site explique pourquoi l'air cooling et le refroidissement de l'ordinateur sont importants.
 
 ![CPU cooling Fan explications](/image/cpucoolingfan.png)
 
@@ -88,7 +88,7 @@ Ref : KAZMEYER, Milton. How does a CPU cooling fan Work? Dans : Chron [en lig
 
 - [https://www.youtube.com/watch?v=hr0qLLv3dKc](https://www.youtube.com/watch?v=hr0qLLv3dKc)
 
-Cette vidéo fiable explique les avantages et inconvénients des refroidissement à air et liquide.
+Cette vidéo fiable explique les avantages et inconvénients des refroidissements à air et liquide.
 
 ![Youtube vidéo air cooling or water cooling?](/image/ytcollingsl.png)
 
