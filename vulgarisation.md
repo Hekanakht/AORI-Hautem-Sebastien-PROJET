@@ -2,7 +2,7 @@
 
 1. [Accueil](index.md)
 1. *Vulgarisation*
-1. [Le refroidissement à air ou air cooling](Aircooling.md)
+1. [Le refroidissement à air ou air cooling](aircooling.md)
 1. [Le refroidissement liquide ou water cooling](watercooling.md)
 1. [Le refroidissement thermoélectrique ou Peltier cooling](peltiercooling.md)
 1. [Le refroidissement par changement d'étât ou phase-change cooling](phasechangecooling.md)
@@ -51,7 +51,7 @@ Un site reprennant les différentes parties du refroidissement par air et une pe
 
 ![Air cooling difference](/image/aircoolingdiff.jpg)
 
-NHU9B. Quels sont les différents types de refroidissements classiques pour CPU ? Dans : Overclocking : Made in France [en ligne]. 27 septembre 2016. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://www.overclockingmadeinfrance.com/les-differents-types-de-refroidissements-cpu/
+Ref: NHU9B. Quels sont les différents types de refroidissements classiques pour CPU ? Dans : Overclocking : Made in France [en ligne]. 27 septembre 2016. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://www.overclockingmadeinfrance.com/les-differents-types-de-refroidissements-cpu/
 
 
 
