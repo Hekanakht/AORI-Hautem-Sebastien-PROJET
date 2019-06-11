@@ -1,13 +1,13 @@
 <h1> Le refroidissement liquide ou water cooling </h1>
 
-1. [acceuil](index.md)
+1. [Accueil](index.md)
 1. [Vulgarisation](vulgarisation.md)
 1. [Le refroidissement à air ou air cooling](aircooling.md)
 1. *Le refroidissement liquide ou water cooling*
 1. [Le refroidissement thermoélectrique ou Peltier cooling](peltiercooling.md)
 1. [Le refroidissement par changement d'étât ou phase-change cooling](phasechangecooling.md)
 
-<h2>Le refroidissement liquide ou water cooling consiste à utiliser une source liquide pour contenir la chaleur des différentes pièces chauffante dans le pc. Il existe plusieurs types de refroidissement liquide dont une consite à plonger la toure entière dans de l'huile minéral.</h2>
+<h2>Le refroidissement liquide ou water cooling consiste à utiliser une source liquide pour contenir la chaleur des différentes pièces chauffante dans un pc. Il existe plusieurs types de refroidissement liquide dont une consiste à plonger la tour entière dans de l'huile minéral.</h2>
 
 
 
@@ -59,11 +59,11 @@ Ref: LINUS TECH TIPS. The BEST Cooling Solution - Air or Water - FINAL ANSWER [e
 
 - [https://bleuit.com/liquid-cooling-submerging-your-pc-in-mineral-oil-671/](https://bleuit.com/liquid-cooling-submerging-your-pc-in-mineral-oil-671/)
 
-Un site qui explique pourquoi il faut utiliser de l'huile minéral pour submerger son pc afin de réduire au maximum la température des autres composants.
+Un site qui explique pourquoi il faut utiliser de l'huile minérale lorsque l'on souhaite submerger son pc afin de réduire au maximum la température des composants.
 
 ![Huile minéral explication](/image/huilemineral.png)
 
-NOON, James. Liquid Cooling – Submerging Your PC In Mineral Oil. Dans : Bleu it consultants limited [en ligne]. 7 juillet 2015. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://bleuit.com/liquid-cooling-submerging-your-pc-in-mineral-oil-671/
+Ref: NOON, James. Liquid Cooling – Submerging Your PC In Mineral Oil. Dans : Bleu it consultants limited [en ligne]. 7 juillet 2015. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://bleuit.com/liquid-cooling-submerging-your-pc-in-mineral-oil-671/
 
 
 
@@ -71,11 +71,11 @@ NOON, James. Liquid Cooling – Submerging Your PC In Mineral Oil. Dans : Bleu
 
 - [https://medium.com/@meohoh/an-ultimate-beginners-guide-to-pc-water-cooling-1dd4c68f1474](https://medium.com/@meohoh/an-ultimate-beginners-guide-to-pc-water-cooling-1dd4c68f1474)
 
-Un site qui explique le le circuit que fait l'eau dans un refroidissement liquide, tout en expliquant les différents types qui existe dans le water cooling.
+Un site qui explique le circuit que fait l'eau dans un refroidissement liquide, tout en expliquant les différents types qui existent dans le water cooling.
 
 ![Système de refroidissement liquide shéma](/image/liquidsystem.png)
 
-SUNDERLAND, James. An ultimate beginners’ guide to PC water cooling. Dans : Medium [en ligne]. 30 mars 2018. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://medium.com/@meohoh/an-ultimate-beginners-guide-to-pc-water-cooling-1dd4c68f1474
+Ref: SUNDERLAND, James. An ultimate beginners’ guide to PC water cooling. Dans : Medium [en ligne]. 30 mars 2018. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://medium.com/@meohoh/an-ultimate-beginners-guide-to-pc-water-cooling-1dd4c68f1474
 
 
 
@@ -87,7 +87,7 @@ Cette vidéo bien qu'amateur permet de comprendre et de voir le circuit que fait
 
 ![Youtube vidéo système refroidissement](/image/ytliquidsystem.png)
 
-TAO OF TECH. Geek School - How Does Water Cooling Work [en ligne]. 27 octobre 2016. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=gQ1lNwCKs-c
+Ref: TAO OF TECH. Geek School - How Does Water Cooling Work [en ligne]. 27 octobre 2016. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=gQ1lNwCKs-c
 
 
 
@@ -98,7 +98,7 @@ Ce site explique comment fontionne un système de refroidissement liquide en rep
 
 ![liquide système = voiture](/image/lcoolingcar.png)
 
-TRACY V., Wilson. How liquid-cooled PCs Work. Dans : HowStuffWorks [en ligne]. 24 août 2006. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://computer.howstuffworks.com/liquid-cooled-pc.htm
+Ref: TRACY V., Wilson. How liquid-cooled PCs Work. Dans : HowStuffWorks [en ligne]. 24 août 2006. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://computer.howstuffworks.com/liquid-cooled-pc.htm
 
 
 
