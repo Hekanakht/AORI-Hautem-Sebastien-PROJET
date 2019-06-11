@@ -1,11 +1,11 @@
 <h1> Les différents types de refroidissement au sein d'un ordinateur.</h1>
 
-1. *accueil*
+1. *Accueil*
 1. [Vulgarisation](vulgarisation.md)
 1. [Le refroidissement à air ou air cooling](aircooling.md)
 1. [Le refroidissement liquide ou water cooling](watercooling.md)
 1. [Le refroidissement thermoélectrique ou Peltier cooling](peltiercooling.md)
-1. [Le refroidissement par changement d'étât ou phase-change cooling](phasechangecooling.md)
+1. [Le refroidissement par changement d'état ou phase-change cooling](phasechangecooling.md)
 
 
 <br> Si vous laissez tourner votre ordinateur, vous entendrez surement un petit soufflement. Il s'agit surement d'un ventilateur qui souffle pour évacuer la chaleur de votre pc. Et bien, il s'agit l'une des méthodes pour refroidir votre ordinateur. Comme vous le savez surement, votre processeur ou votre carte graphique ou tout autres composants émettent une chaleur assez forte. Heureusement, nous avons plusieurs moyens de dissiper cette chaleur avant qu'elle n'endommage les composants de votre ordinateur. </br>
