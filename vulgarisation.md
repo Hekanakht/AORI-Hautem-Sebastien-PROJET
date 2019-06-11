@@ -5,7 +5,7 @@
 1. [Le refroidissement à air ou air cooling](aircooling.md)
 1. [Le refroidissement liquide ou water cooling](watercooling.md)
 1. [Le refroidissement thermoélectrique ou Peltier cooling](peltiercooling.md)
-1. [Le refroidissement par changement d'étât ou phase-change cooling](phasechangecooling.md)
+1. [Le refroidissement par changement d'état ou phase-change cooling](phasechangecooling.md)
 
 
 <h2>Avant d'entrer dans le vif du sujet, je vous propose des sites qui reprennent les différents systèmes de refroidissement mais avec un language plus simple et accessible pour comprendre les bases et ses fonctionnements.</h2>
