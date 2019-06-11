@@ -10,7 +10,7 @@
 
 
 
-<h2>Le refroidissement thermoélectique ou le refroidissement par la méthode Peltier est un processus physique qui utilise de l'électricité sur une plaque qui deviendra d'un coté extrèment chaud et de l'autre, extrèmement froid, utile pour refroidire le processeur. </h2>
+<h2>Le refroidissement thermoélectique, ou le refroidissement par la méthode Peltier, est un processus physique qui utilise un système entre deux plaques et un courant électrique, permettant de déplacer la chaleur vers un système de refroidissement. </h2>
 
 
 
@@ -29,7 +29,7 @@ Ref :II-VI MARLOW. How Do Thermoelectric Coolers (TEC) Work? Dans : II-VI Marl
 
 - [https://forums.tomshardware.com/threads/tec-peltier-cpu-chilled-water-cooling.1281003/](https://forums.tomshardware.com/threads/tec-peltier-cpu-chilled-water-cooling.1281003/)
 
-Ce site et particulièrement le passage sur la méthode Peltier permet avec une définition simple de comprende comment fonctionne le refroidissement thermoélectrique.
+Ce site, et, particulièrement le passage sur la méthode Peltier, permet avec une définition simple de comprendre comment fonctionne le refroidissement thermoélectrique.
 
 ![Définition simple et précise de la méthode Peltier](/image/peltierwhatis.png)
 
@@ -71,7 +71,7 @@ Ref: DOCTORNOOB. 💻 Peltier CPU Cooling Test (Dr. NOOB’s Lab) [en ligne]. 7
 
 -[https://www.researchgate.net/figure/Schematic-diagram-of-a-TEC-system-integrated-with-a-GAHP_fig1_313267844](https://www.researchgate.net/figure/Schematic-diagram-of-a-TEC-system-integrated-with-a-GAHP_fig1_313267844)
 
-C'est un site comprenant plusieurs shémas qui explique le fonctionnement et le rendementd de la méthode Peltier.
+C'est un site comprenant plusieurs shémas qui expliquent le fonctionnement et le rendement de la méthode Peltier.
 
 ![Schéma scientifique de la méthode Peltier](/image/schemamethodepeltier.png)
 
