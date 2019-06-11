@@ -42,6 +42,15 @@ Ref : EXTREMETECH STAFF. Top Tip: What is phase change cooling? Dans : Extreme
 Ref: GAMERS NEXUS. Phase-Change Cooler & Novec Cooling | Der8auer Phase-Shift Cooler [en ligne]. 5 juin 2018. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=AZAUnl37Cr8
 <br>                                                                                                                                  </br>
 <br>                                                                                                                                  </br>
+- [https://www.pcmag.com/encyclopedia/term/60080/phase-change-cooler](https://www.pcmag.com/encyclopedia/term/60080/phase-change-cooler)
+<br>                                                                                                                                  </br>
+Ce site nous présente une explication clair de ce qu'est un système de refroidissement par changement-d'état.
+<br>                                                                                                                                  </br>
+![Explication Phase-change cooling](/image/explicationphcl.png)
+<br>                                                                                                                                  </br>
+PCMAG. Definition of: phase change cooler. Dans : PCMAG [en ligne]. 10 mai 2013. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://www.pcmag.com/encyclopedia/term/60080/phase-change-cooler
+<br>                                                                                                                                  </br>
+<br>                                                                                                                                  </br>
 - [https://searchnetworking.techtarget.com/definition/phase-change-cooling](https://searchnetworking.techtarget.com/definition/phase-change-cooling-
 <br>                                                                                                                                  </br>
 Ce site nous propose une définition et petite explication d'un système de refroidissement par changement d'état.
