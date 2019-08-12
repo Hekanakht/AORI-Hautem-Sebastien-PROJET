@@ -16,7 +16,7 @@ Ce site explique à quoi servent les différents ventilateurs qui peuvent être 
                                                                                                                       
 ![Explications des différents ventilateurs sur les différentes pièces de l'ordinateur](/image/tutoaircooling.png)
 
-Ref: CLEMENT26104. Tuto: Le Refroidissement entre Watercooling et Aircooling. Dans : ConfigsPC.com [en ligne]. 10 décembre 2008. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.configspc.com/forum/viewtopic.php?t=8416
+Ref: CLEMENT26104. Tuto: Le Refroidissement entre Watercooling et Aircooling. Dans : *ConfigsPC.com* [en ligne]. 10 décembre 2008. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.configspc.com/forum/viewtopic.php?t=8416
 
 
 
