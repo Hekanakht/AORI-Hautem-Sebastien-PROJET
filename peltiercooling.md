@@ -22,7 +22,7 @@ Ce site explique clairement comment fonctionne la méthode Peltier et son utilit
 
 ![Méthode Peltier explication](/image/peltierschema.png)
 
-Ref :II-VI MARLOW. How Do Thermoelectric Coolers (TEC) Work? Dans : II-VI Marlow [en ligne]. [s. d.]. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://www.marlow.com/how-do-thermoelectric-coolers-tecs-work
+Ref :II-VI MARLOW. How Do Thermoelectric Coolers (TEC) Work? Dans : *II-VI Marlow* [en ligne]. [s. d.]. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://www.marlow.com/how-do-thermoelectric-coolers-tecs-work
 
 
 
