@@ -63,7 +63,7 @@ Un site qui explique pourquoi il faut utiliser de l'huile minérale lorsque l'on
 
 ![Huile minéral explication](/image/huilemineral.png)
 
-Ref: NOON, James. Liquid Cooling – Submerging Your PC In Mineral Oil. Dans : Bleu it consultants limited [en ligne]. 7 juillet 2015. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://bleuit.com/liquid-cooling-submerging-your-pc-in-mineral-oil-671/
+Ref: NOON, James. Liquid Cooling – Submerging Your PC In Mineral Oil. Dans : *Bleu it consultants limited* [en ligne]. 7 juillet 2015. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://bleuit.com/liquid-cooling-submerging-your-pc-in-mineral-oil-671/
 
 
 
