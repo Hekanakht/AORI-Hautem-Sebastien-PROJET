@@ -32,7 +32,7 @@ Ce site explique que le phase-change cooling est extrêment coûteux et qu'il n'
 
 ![ExtremTech points négatifs du phase-change cooling](/image/extremtechphch.png)
 
-Ref : EXTREMETECH STAFF. Top Tip: What is phase change cooling? Dans : ExtremeTech [en ligne]. 11 juin 2003. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.extremetech.com/computing/54386-top-tip-what-is-phase-change-cooling
+Ref : EXTREMETECH STAFF. Top Tip: What is phase change cooling? Dans : *ExtremeTech* [en ligne]. 11 juin 2003. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.extremetech.com/computing/54386-top-tip-what-is-phase-change-cooling
 
 
 
