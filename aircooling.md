@@ -48,7 +48,7 @@ Cette vidéo fiable qui explique le fonctionnement du air cooling avec des anima
 
 ![youtube heatpipes et air cooling](/image/ytheatpipes.png)
 
-Ref: *GAMERS NEXUS. TLDR: How Heatpipes & Air Coolers Work (w/ animation)* [en ligne]. spetembre 2016. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.youtube.com/watch?time_continue=82&v=ieMvtUpFENM
+Ref: GAMERS NEXUS. *TLDR: How Heatpipes & Air Coolers Work (w/ animation)* [en ligne]. spetembre 2016. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.youtube.com/watch?time_continue=82&v=ieMvtUpFENM
 
 
 
