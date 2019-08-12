@@ -19,7 +19,7 @@ Cette vidéo explique comment fonctionne la dispertion de chaleur avec le refroi
 
 ![Youtube video air cooling corsaire](/image/ytcorsair.png)
 
-Ref: CORSAIR. Corsair PC Building Basics: air CPU cooling vs. liquid CPU cooling [en ligne]. 3 novembre 2015. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=vG3W6yvqTuw
+Ref: CORSAIR. *Corsair PC Building Basics: air CPU cooling vs. liquid CPU cooling* [en ligne]. 3 novembre 2015. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=vG3W6yvqTuw
 
 
 
@@ -30,7 +30,7 @@ Un petit guide qui reprend les différents composants du water cooling pour diff
 
 ![Système différent du water cooling](/image/bestsystemlc.png)
 
-Rep: GTX GAMER. Les 8 meilleurs refroidisseurs liquide d’UC de 2019. Dans : GTX Gamer : Le guide du pc Gamer [en ligne]. 18 août 2018. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://gtxgamer.fr/ordinateurs-et-accessoires/guide-des-meilleurs-systemes-de-refroidissement-liquide-pour-pc/
+Rep: GTX GAMER. Les 8 meilleurs refroidisseurs liquide d’UC de 2019. Dans : *GTX Gamer* : Le guide du pc Gamer [en ligne]. 18 août 2018. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://gtxgamer.fr/ordinateurs-et-accessoires/guide-des-meilleurs-systemes-de-refroidissement-liquide-pour-pc/
 
 
 
@@ -41,7 +41,7 @@ Ce site explique dans quel liquide est plongé les ordinateurs immergés, permet
 
 ![immerges PC water cooling](/image/imliquidcl.png)
 
-Ref: LILLY, Paul. This is what extreme liquid cooling looks like. Dans : PC Gamer [en ligne]. 14 novembre 2017. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.pcgamer.com/this-is-what-extreme-liquid-cooling-looks-like/
+Ref: LILLY, Paul. This is what extreme liquid cooling looks like. Dans : *PC Gamer* [en ligne]. 14 novembre 2017. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.pcgamer.com/this-is-what-extreme-liquid-cooling-looks-like/
 
 
 
@@ -52,7 +52,7 @@ Cette vidéo fiable explique les avantages et inconvénients des refroidissement
 
 ![Youtube vidéo air cooling or water cooling?](/image/ytcollingsl.png)
 
-Ref: LINUS TECH TIPS. The BEST Cooling Solution - Air or Water - FINAL ANSWER [en ligne]. 21 septembre 2017. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=hr0qLLv3dKc
+Ref: LINUS TECH TIPS. *The BEST Cooling Solution - Air or Water - FINAL ANSWER* [en ligne]. 21 septembre 2017. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=hr0qLLv3dKc
 
 
 
@@ -75,7 +75,7 @@ Un site qui explique le circuit que fait l'eau dans un refroidissement liquide, 
 
 ![Système de refroidissement liquide shéma](/image/liquidsystem.png)
 
-Ref: SUNDERLAND, James. An ultimate beginners’ guide to PC water cooling. Dans : Medium [en ligne]. 30 mars 2018. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://medium.com/@meohoh/an-ultimate-beginners-guide-to-pc-water-cooling-1dd4c68f1474
+Ref: SUNDERLAND, James. An ultimate beginners’ guide to PC water cooling. Dans : *Medium* [en ligne]. 30 mars 2018. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://medium.com/@meohoh/an-ultimate-beginners-guide-to-pc-water-cooling-1dd4c68f1474
 
 
 
@@ -87,7 +87,7 @@ Cette vidéo bien qu'amateur permet de comprendre et de voir le circuit que fait
 
 ![Youtube vidéo système refroidissement](/image/ytliquidsystem.png)
 
-Ref: TAO OF TECH. Geek School - How Does Water Cooling Work [en ligne]. 27 octobre 2016. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=gQ1lNwCKs-c
+Ref: TAO OF TECH. *Geek School - How Does Water Cooling Work* [en ligne]. 27 octobre 2016. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=gQ1lNwCKs-c
 
 
 
@@ -98,7 +98,7 @@ Ce site explique comment fontionne un système de refroidissement liquide en rep
 
 ![liquide système = voiture](/image/lcoolingcar.png)
 
-Ref: TRACY V., Wilson. How liquid-cooled PCs Work. Dans : HowStuffWorks [en ligne]. 24 août 2006. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://computer.howstuffworks.com/liquid-cooled-pc.htm
+Ref: TRACY V., Wilson. How liquid-cooled PCs Work. Dans : *HowStuffWorks* [en ligne]. 24 août 2006. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://computer.howstuffworks.com/liquid-cooled-pc.htm
 
 
 
