@@ -26,7 +26,7 @@ Cette vidéo explique comment fonctionne la dispertion de la chaleur avec le ref
 
 ![Youtube vidéo Air cooling corsaire](/image/ytcorsair.png)
 
-Ref: CORSAIR. Corsair PC Building Basics: air CPU cooling vs. liquid CPU cooling [en ligne]. 3 novembre 2015. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=vG3W6yvqTuw
+Ref: CORSAIR. *Corsair PC Building Basics: air CPU cooling vs. liquid CPU cooling* [en ligne]. 3 novembre 2015. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=vG3W6yvqTuw
 
 
 
@@ -37,7 +37,7 @@ Ce site reprend en détail le fonctionnement du refroidissement par air d'un CPU
 
 ![cpu cooler](/image/techspotaircl.jpg)
 
-Ref: FALK, Richard. A brief explanation on CPU coolers. Dans : TechSpot [en ligne]. aout 2016. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.techspot.com/news/65997-brief-explanation-cpu-coolers.html
+Ref: FALK, Richard. A brief explanation on CPU coolers. Dans : *TechSpot* [en ligne]. aout 2016. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.techspot.com/news/65997-brief-explanation-cpu-coolers.html
 
 
 
@@ -48,7 +48,7 @@ Cette vidéo fiable qui explique le fonctionnement du air cooling avec des anima
 
 ![youtube heatpipes et air cooling](/image/ytheatpipes.png)
 
-Ref: GAMERS NEXUS. TLDR: How Heatpipes & Air Coolers Work (w/ animation) [en ligne]. spetembre 2016. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.youtube.com/watch?time_continue=82&v=ieMvtUpFENM
+Ref: *GAMERS NEXUS. TLDR: How Heatpipes & Air Coolers Work (w/ animation)* [en ligne]. spetembre 2016. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://www.youtube.com/watch?time_continue=82&v=ieMvtUpFENM
 
 
 
@@ -59,7 +59,7 @@ Un site reprennant le refroidissement par air et par liquide avec différentes e
 
 ![Air and water cooling](/image/coolingsystemehussain.png)
 
-Ref: HUSSAIN, Baseer. System Hardware Component: Cooling system in a Computer. Dans : Medium [en ligne]. 6 mars 2017. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://medium.com/computing-technology-with-it-fundamentals/system-hardware-component-cooling-system-in-a-computer-7d8602523c4a
+Ref: HUSSAIN, Baseer. System Hardware Component: Cooling system in a Computer. Dans : *Medium* [en ligne]. 6 mars 2017. [Consulté le 24 mai 2019]. Disponible à l’adresse : https://medium.com/computing-technology-with-it-fundamentals/system-hardware-component-cooling-system-in-a-computer-7d8602523c4a
 
 
 
@@ -70,7 +70,7 @@ Un site qui explique que l'emplacement des ventilateur dans l'air cooling est tr
 
 ![ExtremeTech positionnement ventilateur](/image/exttechaircl.png)
 
-Ref : IMMS, Janson. ExtremeTech’s guide to air cooling your PC - ExtremeTech. Dans : ExtremeTech [en ligne]. 3 mai 2012. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://www.extremetech.com/computing/128313-extremetechs-guide-to-air-cooling-your-pc
+Ref : IMMS, Janson. ExtremeTech’s guide to air cooling your PC - ExtremeTech. Dans : *ExtremeTech* [en ligne]. 3 mai 2012. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://www.extremetech.com/computing/128313-extremetechs-guide-to-air-cooling-your-pc
 
 
 
@@ -81,7 +81,7 @@ Ce site explique pourquoi l'air cooling et le refroidissement de l'ordinateur so
 
 ![CPU cooling Fan explications](/image/cpucoolingfan.png)
 
-Ref : KAZMEYER, Milton. How does a CPU cooling fan Work? Dans : Chron [en ligne]. 2019. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://smallbusiness.chron.com/cpu-cooling-fan-work-61608.html
+Ref : KAZMEYER, Milton. How does a CPU cooling fan Work? Dans : *Chron* [en ligne]. 2019. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://smallbusiness.chron.com/cpu-cooling-fan-work-61608.html
 
 
 
@@ -92,7 +92,7 @@ Cette vidéo fiable explique les avantages et inconvénients des refroidissement
 
 ![Youtube vidéo air cooling or water cooling?](/image/ytcollingsl.png)
 
-Ref: LINUS TECH TIPS. The BEST Cooling Solution - Air or Water - FINAL ANSWER [en ligne]. 21 septembre 2017. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=hr0qLLv3dKc
+Ref: LINUS TECH TIPS. *The BEST Cooling Solution - Air or Water - FINAL ANSWER* [en ligne]. 21 septembre 2017. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://www.youtube.com/watch?v=hr0qLLv3dKc
 
 
 
@@ -103,4 +103,4 @@ Ce site explique comment la chaleur se propage dans le pc de manière scientifiq
 
 ![propagation de la chaleur](/image/hotaircooling.png)
 
-Ref: STEINBRECHER, Tillmann. Heatsink Guide - The Basics of Cooling & Heatsink Technology. Dans : AnandTech [en ligne]. 5 janvier 2000. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://www.anandtech.com/show/437
+Ref: STEINBRECHER, Tillmann. Heatsink Guide - The Basics of Cooling & Heatsink Technology. Dans : *AnandTech* [en ligne]. 5 janvier 2000. [Consulté le 7 juin 2019]. Disponible à l’adresse : https://www.anandtech.com/show/437
